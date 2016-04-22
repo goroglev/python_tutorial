@@ -1,0 +1,51 @@
+"Things" such as phones, watches, glasses, televisions, cars and even homes - everything is becoming smarter thanks to the Internet, ubiquitous computing and the use of Artificial Intelligence.
+
+The "Internet of Things" or simply IoT is now a commonplace term in day to day life. It is the communication that occurs between a network of "things" or physical objects that are enabled with internet connectivity.
+
+    The "Internet of Things" is network of "things" or physical objects embedded with electronics, software, sensors, and network connectivity, which enables these objects to collect and exchange data. 
+
+The interconnection of these embedded devices, including smart objects, is expected to provide support in automation such as Smart Homes, and enabling advanced applications like a Smart Grid, expanding into Smart Cities and eventually into a Smart World...
+
+    Smart Cities Will Use 1.6 Billion Connected Things in 2016 - Gartner  
+
+So our homes and cities are becoming smarter, but what does this mean for our lives, are we becoming any smarter? What does smart stand for and how smart do we want (or allow) things to become? 
+
+What is Smart?
+I was painfully surprised to find that the etymological meaning of  "Smart" pointing me towards "painful, severe, stinging; causing a sharp pain" - luckily we don't live in the 13th Century anymore!  In reference to devices I found "behaving as though guided by intelligence" (as in smart bomb) first came about in 1972. Smarts "good sense, intelligence," was first recorded in 1968. 
+
+    smart (adj.) late Old English smeart "painful, severe, stinging; causing a sharp pain," related to smeortan. Meaning "executed with force and vigor" is from c. 1300. 
+
+In the context of "Smart Things" I will settle for things that are "guided by intelligence" or things that have the ability to receive information and operate to some extent interactively and autonomously. 
+
+For things to have the ability to perceive information and retain it as knowledge to be applied towards adaptive behaviours within an environment, this should be something that's classed as a higher level of intelligence, given its ability of cognitive reasoning.
+What are Things?
+
+"Things" in the IoT sense, can refer to a wide variety of devices such as heart monitoring implants, biochip transponders on farm animals, automobiles with built-in sensors, or smart thermostat systems and washer/dryers that use Wi-Fi for remote monitoring. These devices collect useful data with the help of various existing technologies and then autonomously flow the data between other devices. 
+How Smart Should Things Become?
+
+I believe that we should strive to make things smart enough so that they can support people with things that matter; assisting people in becoming more resourceful of their energy consumption, to live an independent and healthier life, or generally to increase the awareness (cognition) of the environment and one self. 
+
+    “Providing real-time feedback is the best way to get consumers interested in adopting smart home technologies.” 
+
+
+Building A Smarter Future 
+
+Envision a future in which our environment is sensitive and responsive to the presence of people. For "things" to work in concert to support people in carrying out their everyday life activities, tasks and rituals in an easy, natural way using information and intelligence that is captured in the IoT Network.
+Ambient Intelligence
+
+I am talking about "ambient intelligence", a vision of the future (2020) that was commissioned by Philips in 1998, and sparked various initiatives such as the sixth framework (FP6) in Information, Society and Technology (IST) by the European Commission. Fraunhofer Society started several activities in a variety of domains including multimedia, micro-systems design and augmented spaces. MIT started an Ambient Intelligence research group at their Media Lab.
+
+The ambient intelligence paradigm is build upon a combination of pervasive computing, ubiquitous computing, profiling, context awareness, and human-centric computer interaction design and is characterised by systems and technologies that are: 
+
+    embedded: many networked devices are integrated into the environment
+    context aware: these devices can recognise you and your situational context
+    personalized: they can be tailored to your needs
+    adaptive: they can change in response to you
+    anticipatory: they can anticipate your desires without conscious mediation.
+
+Smart Environment 
+We are talking about environments that will adapt to the personal mental and physical state of people using smart watches that are capable of measuring one's health state, and Smart Machines that are cognitive and contextually aware. 
+
+Think of intelligent humanoid robots such as Pepper, self-driving cars and other cognitive computing systems such as Watson that are able to make decisions and solve problems without human intervention. 
+
+I am excited about a future where "things" will not only bring us comfort and joy, but will support us to living a more healthy life with increased awareness and altered intelligence!  

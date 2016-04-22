@@ -1,0 +1,48 @@
+In my earlier post "Things" - How Smart Should They Become?, I discussed at the meaning of smart and how smart things should become. In this post I will focus on the safety side of things and the general security around the Internet of Things. 
+How Safe is Smart?
+
+Billions of sensors and smart devices are being built into our homes, including thermostats, doorlocks, baby monitors, smart plugs‎, all clever things that should make our lives more convenient and insightful. 
+
+But what about their safety and how secure are they from cyber criminals breaking into homes? 
+
+According to cyber security experts, manufacturers are not doing enough to protect smart things from hackers.
+
+    “Really, the state of security on these things right now is pretty atrocious,” Colby Moore, a security research engineer at the cybersecurity firm Synack 
+
+Earlier this year, Synack tested 16 home automation devices and found only one that its researchers couldn't easily break into. So it's fair to say, the IoT industry has some work to do in terms of following best security practices. See their full report below.
+
+If a cyber criminal can break into your home devices they can start to understand your behaviours and patterns — like when you are home and when you are not — putting your safety and privacy at risk.
+
+    “It’s almost like casing a bank. When somebody knows your behaviours and where you are going to be it’s easier to take advantage of their vulnerabilities,”  - Joe Loomis, CEO and founder CyberSponse 
+
+As Easy As Entering "Admin"
+
+Aamir Lakhani, a security researcher at Fortinet, explains how easy it can be to hack into video streams without any coding skills. He went to Shodan.io, which is a website that lets you search for devices that are connected to the Internet, or the "search engine for the Internet of Things", as he calls it. The site allowed him to hack into a video stream, picked at random, just by entering word "admin" for the camera's username and password! 
+
+    “Smart home hubs enable users to have control over the connected devices in their house, but they also open new doors for criminals,” -   Craig Young, Security Researcher at Tripwire
+
+While we are still in the early days of the smart home automation, these products could become a big problem because so many of the devices simply lack basic security measures and there are no industry standards for security on these types of devices.
+Apple HomeKit
+
+Apple has run into this problem with manufacturers looking to get onto the HomeKit Platform, a technology used to control smart home products with an Apple TV, iPhone or iPad.
+
+Apple is forcing manufactures to fit Apple-certified chips and firmware in their gadgets if they are to work with the HomeKit platform, according to a report from The Register.
+
+That means, in a lot of cases, engineers must effectively redesign their products to incorporate the mandatory HomeKit chips and firmware, and pass Apple's strict checklist of requirements, industry sources have told The Register. Such moves are expensive and time consuming, but ultimately benefit punters. 
+
+Without a certified communications chip, and the HomeKit firmware, the device cannot work with the HomeKit system. This could be the main reason behind the low numbers of compatible products, and increasing frustration in the industry with the tech giant.
+As Safe As Possible 
+
+While the devices themselves may be vulnerable by nature at this point, there are some ways to protect your connected homes and devices. Some of these security options include changing the default password, ensure to updating you're software as updates are released, or investing in a cybersecurity system such as Dojo or Webroot. 
+
+Dojo’s device — with a shipping date of early March 2016 — aims to create a consumer-friendly security and control interface at the network layer that the company claims is capable of spotting and blocking anomalous behaviour by connected devices on your home network. 
+
+     “There’s no industry standard and there’s is no way to tell if a product is secure or not if you are the average Joe. That is a big problem and it’s a problem that the industry needs to address and is thinking about,” Colby Moore from cybersecurity firm Synack. 
+
+Of course the most effective way to avoid getting your home hacked is to simply avoid buying smart home products until there is a better security standard put in place, but this may not an option! 
+
+Be Smart & Stay Safe!
+ 
+This "Cybersecurity and the Internet of Things" report highlights why being in a proactive position to anticipate and mitigate cyber threat is one of today’s most important business objectives.  
+
+To see upcoming posts from me in your LinkedIn news feed, connect to his account by clicking the "Follow" button at the top right of the page.

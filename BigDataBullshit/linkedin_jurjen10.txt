@@ -1,0 +1,62 @@
+Robots to the Rescue - the Ideathon
+Apr 28, 2015
+
+    552 views
+    8 Likes
+    0 Comments
+
+    Share on LinkedInShare on FacebookShare on Twitter
+
+Are you fascinated, experienced or simply curious about robotics and human-robot interaction (HRI), then you should join this event!
+
+Robots to the Rescue is a series of events created to discover the world of robotics, explore how they be used to enrich people’s lives and collaborate of the creation of practical applications.
+
+    How could robots be used to assist the elderly suffering from Alzheimer’s or loneliness, people struggling from neurodegenerative disease such as ALS or kids trying to copy with neurodevelopmental disorder such autism?” 
+
+We shall kickstart this series with an "Ideathon" to generate ideas around the use of robots with the intention to bring these ideas to life at the "The Playground" as part of the UPRISE Festival on the 24-26 September.
+
+As the world of robotics is very broad, we have decided to focus these series on the social and human side of robotics, think of Humanoid Robots and Social Robots, such as NAO.
+
+
+Ideathon for Robots
+
+First of all, you don't need to be a coder, programmer, hacker or techie to join this ideathon. We are looking for people who have the creativity, affinity, imagination and general vision to come up with scenarios that could make people’s lives easier, more meaningful and supportive through the use of robotics.
+
+In the first part of the series we will provide an introduction on robotics, artificial intelligence and touch upon the ethical side of these technologies. We shall provide examples on how robots could be used to tackle challenges such as ageing, autism and independent living. 
+
+    Think about the possibilities when we programme humanoids with cognitive services such as Watson?  
+
+Robots meets Watson
+
+Watson is IBM's cognitive computer, a system that will learn and become increasingly smarter through the interactions with humans. It is built to mirror the same learning process that we have—through the power of cognition. What drives this process is a common cognitive framework that humans use to inform their decisions: Observe, Interpret, Evaluate, and Decide.
+
+In the case of humanoid robots, cognitive services could empower the core enablement for the interaction of robots with humans.
+
+As you can see from the below facts from the IEEE/RSJ International Conference on Intelligent Robots and Systems; cognitive robotics shall be a main grand research avenue that robotics R&D shall focus on.
+
+Collective Brainstorm 
+We shall continue with a breakout session which will consist of a collective brainstorm to generate ideas around the use of the robots based around the information provided and specific challenges that will be raised at the tables.
+
+We take the World Café method as our approach as this should encourage for a collaborative and informal brainstorm.
+
+Crowd-Voting 
+As the entire idea generation process is based around the “wisdom of the crowd”, so will the voting for the best ideas be dependent upon the crowd. All participants will be given the opportunity to vote for each others ideas and the ones with the highest ratings will win and enter the "The Playground" - it’s that simple!
+
+The crowd judging will be based around a mix of criteria: Innovative, Ingenuity and Impact. 
+
+Hope to see you around on the 22nd May. Please use this link to register your FREE participation. 
+
+More information?
+For more information, please check Robots to the Rescue
+
+Where & When
+The event will be hosted from MeetBerlage in Amsterdam on Friday 22 May 2015 from 13:00 - 18:00.
+
+The Program
+13:00 - Walk in
+13:30 - Welcome & Intro
+13:45 - Keynotes on Robotics, AI and Ethics  
+14:45 - Collective Brainstorm
+16:30 - Crowd-voting the Best Ideas 
+17:30 - Announcement Best Ideas 
+18:00 - Drinks

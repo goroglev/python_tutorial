@@ -1,0 +1,31 @@
+At the beginning of February, the Toon® API team hit the road to run the first hackathon of the year; the Hack-a-Toon®.  This hackathon was hosted around the theme "Smarter & Safer Homes with Toon®" and organised for students of the Hogeschool Rotterdam active across various faculties such as Informatics, Computer Science, Media Technology and Big Data.  
+The Teams & Challenges 
+
+To ensure that everyone got off to the good start, we took care of the team formation and installed the 'hacker-kits' at the Stadslab location in Rotterdam, prior to the event. Students were put together in cross-disciplinary teams based on the challenge they selected during registration. 
+The Hacker-Kits 
+
+The hacker-kits that each team received consisted of a Toon display, a Hue light, a Smart Plug and two-months worth of Toon field test data. These kits would enable the students to connect the devices with the Toon and use the data to determine opportunities and/or vulnerabilities. 
+
+The Pitches 
+
+Within 12 hours the teams had to come up with a concept, create a working prototype and pitch their solution to the panel of judges which consisted of Michel Fokke (CTO, Quby), Michel Muurmans (Manager Smart Home at Eneco) and Frank Meeuwsen (Community Architect at Triggi). 
+
+The solutions were judged on a series of criteria such its potential, originality, safety, value, usability, data/tech used and whether they managed to create working solutions. Of the 12 teams that pitched, there could only be three winners.  
+The Winners 
+
+The 3rd prize went to the team "Limited Gaming" who worked on the "Family of the Future" challenge.  They created a solution that would limit the amount of gameplay for kids. After a certain amount of gameplay, Toon would automatically warn the players that time is running out, through an indication of Hue lights turning red. When the game time is elapsed, the game system would shut down.  
+
+
+The 2nd prize was awarded to the team "Taircoon" who also took the "Family of the Future" challenge. Their solution would decide whether your air conditioning needs to provide assistance in lowering the room temperature. By taking the weather outside into account as well, Taircoon will decide if your air conditioning needs to help lowering the room temperature. If the temperature outside will drop soon, it might actually be smarter and more energy efficient to just open a window
+
+The 1st prize was given to team "Warm Alarm" who went for the "Pimp my Room" challenge.  As they explained this themselves, Warm Alarm tackles the daily struggle of waking up in a cold dark house. Although the Toon already has a neat feature which can set up programs for you, we created a solution using the alarm on your phone. If we know what time you will wake up, we can warm up your house while you're still asleep. And while we are at it, why not turn on your light on so you won't hit your head in the dark. Most people have a smartphone and use it to set their alarms. It will keep track of the alarms you have set and sends a message to your Toon if it is time to start warming up or turn on your light.
+Fun & Useful Solutions
+
+There were many more fun and useful solutions that the students came up with such as using a connected doorbell that used a Hue light to indicate when someone is standing outside the door, automatically switching off chargers when they're not charging anymore, or creating immersive light experiences during gaming.  
+
+Finally, a special mention goes out to team "Toonify" who came up with a concept where Toon would suggest the most optimal energy provider to its users, based on their actual usage and the deals available in the market.   
+
+All in all, it was a great day! The students gave us many valuable insights regarding the potential of the the Toon and most importantly, feedback on our new API!  
+Want to join a growing community?  
+
+Want to get your hands on the Toon® API and a growing community of smart home developers? Please sign up on toonapi.com and get your API key today! 

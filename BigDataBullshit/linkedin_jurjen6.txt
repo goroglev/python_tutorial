@@ -1,0 +1,49 @@
+What if there’s a technological advancement so powerful that it transforms the very basic pillars of our society? A technology which fundamentally influences the way our economy, governance and business systems function and change our understanding of trade, ownership and trust?  
+
+Welcome to the technology of the Blockchain; a distributed ledger, a decentralised computational memory of human interactions. 
+
+The Blockchain lets people who have no particular confidence in each other collaborate without having to go through a neutral central authority. Simply put, it is a machine for creating trust, according to the latest The Economist article "The Trust Machine".
+
+In essence it is a shared, trusted, public ledger that everyone can inspect, but which no single user controls.
+
+    "There is something new and fundamental happening in the world which could be the start of the next enlightenment period. The core of this is shifting from centralised to decentralised models in all aspects of our lives, both individual and societally" - Melanie Swan - author of  Blockchain: Blueprint for a New Economy. 
+
+The Essence of Bitcoin - The Blockchain
+
+The most widely known application of a blockchain is the public ledger of transactions for cryptocurrencies originally used in Bitcoin.
+
+People often think of Bitcoin as only virtual money or a transaction system. But if you look closer, you’ll see that the monetary aspect is just the tip of the iceberg. This is because Bitcoin is built on top a Blockchain Technology. 
+
+Not familiar with Bitcoins? Check this video 
+
+Bitcoin itself may never be more than a curiosity. However blockchains have a host of other uses because they meet the need for a trustworthy record, something vital for transactions of every sort.
+
+    “It’s my belief that Blockchain technology will be as important to the world as Gutenburg’s printing press” Nic Cary, cofounder of  Blockchain.info  
+
+The Blockchain - a Technology for Transactions
+
+People use the term ‘blockchain technology’ to mean different things, and it can be confusing.  Sometimes they are talking about The Bitcoin Blockchain, sometimes it’s smart contracts.  Most of the time though, they are talking about distributed ledgers, i.e. a list of transactions that is shared among a number of computers, rather than being stored on a central server.   
+
+    ‘”Check it on the Blockchain” will be the phrase of the 21st century. It will be as commonplace as people saying “Google that.”  Nic Cary of Blockchain.info 
+
+There are already thousands of developers and dozens of companies experimenting with blockchain applications, but we have yet to see large scale projects built around blockchain technology that are not bitcoin related.
+Blockchain and The Internet of Things
+
+The Internet of Things (IoT) could bring blockchain technology to the masses. Research firm IDC expects the user base to grow at a compound annual growth rate (CAGR) of 17.5% this decade, with up to 28.1 billion IoT devices in the wild by 2020, and revenue passing the $7 trillion mark the same year.
+
+IBM, are looking into ways of harnessing blockchain technology as part of their IoT development programs. Earlier this year they unveiled their proof of concept for ADEPT (Autonomous Decentralised Peer-to-Peer Telemetry), a system that uses elements of bitcoin’s underlying design to build a distributed n to build a distributed network of devices – a decentralised Internet of Things.
+
+Applying the blockchain concept to the world of IoT offers fascinating possibilities. Right from the time a product completes final assembly, it can be registered by the manufacturer into a universal blockchain representing its beginning of life. Once sold, a dealer or end customer can register it to a regional blockchain (a community, city or state). 
+
+    "Bitcoin is a transformative addition to Internet communication protocols that will create new networks of trust, fuel massive economic ecosystems, and create enduring long-term value." - Reid Hoffman, cofounder of LinkedIN 
+
+Blockchain for Storing Medical Records
+
+One of the more important aspects of life is a person’s medical record. Not only do these records contain valuable information regarding an individual’s physical and mental history, but they are also filled with sensitive financial information. A date of birth, social security number, and other information, is of high value to hackers looking to commit identity theft.
+
+Storing medical records in the cloud may no longer be a viable option in our society, as cloud services are prone to attacks and data loss. Using decentralised database solutions, powered by blockchain technology could to be one way forward. Doing so would remove any central point of failure from the equation while bringing top notch security to boot.
+
+But these are not the only benefits. Internal communication between medical practitioners, mental institutions and hospitals would become far easier, more transparent, and more convenient. 
+Infinite Possibilities 
+
+There are almost endless applications of the Blockchain. However, most of these applications are at a pre-alpha development stage. With $927.36 million invested to date in Bitcoin and Blockchain startups, the Blockchain has the potential to change the face of our economy, governance, business and healthcare systems - it has the potential to change the world!

@@ -1,0 +1,60 @@
+Following on from my earlier post on IBM Watson, in which I provided a short introduction into this cognitive computing system, in this post I am going to highlight the latest services that have been made available to build your own cognitive apps.
+
+In case you're not yet familiar with Watson, please watch this video to find out how it works...
+
+What are cognitive apps?
+
+Cognitive apps are able to interact with humans on human terms, understand natural language, learn from experience, identify hidden pattern, trends and are capable of putting content into context with confidence-weighted responses and supporting evidence.
+
+They are intelligent apps, especially with the knowledge that over time they will start to simulate more closely how the human brain works. When they get to that stage, they could support us in solving the world’s most complex problems!
+What are the services that have been made available to create these cognitive apps?
+
+The following services can be found in the Watson Developer Cloud and have been made available through IBM's App Development Platform Bluemix.
+
+Click on the images to see further explanation and demos.
+
+Concept Expansion
+Maps euphemisms or colloquial terms to more commonly understood phrases. For example, it could interpret "The Big Apple" as meaning "New York City.
+
+Concept Insights
+Explores information based on the concepts behind your input, rather than limiting investigation to findings based on traditional text matching.
+
+Language Identification
+Identifies the language in which text is written. This helps inform next steps such as translation, voice to text or direct analysis.
+
+Machine Translation
+The Machine Translation service converts text input in one language into a destination language for the end user. Translation is available among English, Brazilian Portuguese, Spanish, French and Arabic.
+
+Message Resonance
+This service analyses draft content and scores how well it is likely to be received by a specific target audience. This analysis is based on content that has been written by the target audience itself, such as fans of a specific sports team or new parents.
+
+Personality Insights
+Enables deeper understanding of people's personality characteristics, needs, and values to help engage users on their own terms.
+
+Question and Answer
+Interprets and answers user questions directly based on primary data sources (brochures, web pages, manuals, records, etc.) that have been selected and gathered into a body of data or 'corpus'.
+
+Relationship Extraction
+From unstructured text, Relationship Extraction can extract entities (such as people, locations, organisations, events), and the relationships between these entities (such as person employed-by organisation, person resides-in location).
+
+Speech to Text
+Converts the human voice into the written word. It uses machine intelligence to combine information about grammar and language structure with knowledge of the composition of the audio signal to generate a more accurate transcription.
+
+Text to Speech
+This service synthesises natural-sounding speech from English or Spanish text. It understands text and natural language to generate synthesised audio output complete with appropriate cadence and intonation.
+
+Tradeoff Analytics
+This service helps users make better choices to best meet multiple conflicting goals, combining smart visualisation and recommendations for trade-off exploration.
+
+User Modeling
+This service uses linguistic analytics to extract cognitive and social characteristics, including Big Five, Values, and Needs, from communications that the user makes available, such as email, text messages, tweets, forum posts, and more.
+
+Visual Recognition
+This service enables you to analyse the visual appearance of images or video frames to understand what is happening. Using machine learning technology, semantic classifiers recognize many visual entities, such as settings, objects, and events.
+
+Visualisation Rendering
+This service provides graphical representations of data analysis for easier understanding. It offers interactive data visualisations that can range from common business charts to more advanced layouts.
+
+Since its creation in October 2013, the Watson Developer Cloud has evolved into a community of over 5,000 partners who have unlocked the power of cognitive computing to build more than 6,000 apps to date.
+
+If you want to stay up to date on the latest news and discussions, please join the IBM Watson Group.

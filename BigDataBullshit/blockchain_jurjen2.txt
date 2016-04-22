@@ -1,0 +1,27 @@
+One of the more important aspects of life is a person’s medical records. Not only do these records contain valuable information regarding an individual’s physical and mental history, but they are also filled with sensitive financial information. A date of birth, social security number, and other information, is of high value to hackers looking to commit identity theft.
+
+Storing medical records in the cloud doesn’t seem to be a viable option in our society any longer, as cloud services are prone to attacks and data loss. 
+
+MedVaultUsing decentralised database solutions, powered by blockchain technology seems to be the way forward, at least that is what the winners of the Blockchain Hackathon must have thought building ‘MedVault’, a Proof of Concept that would allow patients to record medical information on the bitcoin blockchain.
+
+Graham Rhodes, a MedVault developer, indicated that the project was able to separate from the competition because of its use of the blockchain to “anonymise” medical records.
+
+Rhodes told CoinDesk:
+
+    “[We’re] giving the patients control over their own medical records and the decision to make certain aspects public or private, while still being stored in a distributed global manner.”
+
+Though only a proof of concept, Rhodes indicated that the concept advanced toward discussions on user experience.
+
+Patients using a fully developed product, Rhodes said, would be provided with a QR code of their public key or patient identifier, which a doctor could then use to access their medical records.
+
+Rhodes’ continued:
+
+    “The vision here was that if a patient is on holiday skiing, crashes into a tree and gets knocked out, [the patient has] a key fob or another way to access their patient identifier, and doctors can immediately view their medical records,”
+
+On the tech side, MedVault uses digital asset startup Colu‘s platform, leveraging its software development kit to avoid “bloating” the bitcoin blockchain.
+
+“As the blockchain can only store so much information, Colu leverages the colored coin protocol and the BitTorrent network to store the digital asset and medical record in a verifiable way,” added Rhodes.
+
+Although still undecided about what the prize money will be used for, Rhodes suggested that it may be sensible to invest the funds into developing the product:
+
+    “With the attention it seems blockchain has been receiving lately, I feel like it would definitely be worth investing the money in it [the concept].”

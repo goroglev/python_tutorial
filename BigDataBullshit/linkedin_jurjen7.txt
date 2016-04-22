@@ -1,0 +1,52 @@
+Hack the City of Amsterdam @MuseumNight Hackathon
+Oct 7, 2015
+
+    397 views
+    40 Likes
+    4 Comments
+
+    Share on LinkedInShare on FacebookShare on Twitter
+
+The I amsterdam Museum Night Hackathon is calling for participants to help find new ideas, tools and technologies for improving mobility, navigation and crowd management in the city. We are looking for app developers, start-ups, designers and other creative minds who want to make Amsterdam an even better city for people to live in and to visit.
+Making Amsterdam the best city in the world for residents and tourists
+
+We think that Amsterdam is the best city in the world to live and work in. However, its popularity is presenting new challenges in terms of mobility, navigation and accessibility: moving around has become less convenient for tourists and residents alike. This is becoming even more apparent during large-scale, citywide events such as Museum Night (also known as n8).
+New ideas and tools
+
+At the hackathon, participating teams are asked to come up with for real viable and innovative solutions to create balance in the city. New ideas, tools and technologies need to be created to solve urgent problems. These ideas should deal with:
+
+    Smart crowd management
+    Increased mobility and accessibility
+    Smart signage and public wayfinding
+    Enhanced visitor experience and engagement
+    Crowd insights and analytics
+    Improved public safety and security
+
+ 
+The challenge
+
+Amsterdam is thriving. The city counts close to one million residents and more than 15 million day visitors per year. But there is a worrying consequence to this positive development: with over 880,000 bicycles, 619 bike paths, 198 buses, 213 trams, 105 metros and more than 3,600 taxis on the streets every day, Amsterdam is constantly congested. The everyday balance between the various groups of residents and visitors as well as the different neighbourhoods of the city is disrupted. Improving infrastructure only goes so far, which is why Amsterdam Marketing and the Museum Night Foundation have launched this hackathon to find new ideas and tools.
+
+Not your typical hackathon
+
+The I amsterdam Museum Night Hackathon takes a slightly different form from the 48-hour sessions that are usually expected from a hackathon – there will be no overnight staying and smelling like a wet towel at the end of this one!
+
+Kick-off is two weeks before Museum Night (23rd October) with a ‘guru session’, a special training where the teams will be briefed on the challenge and introduced to exclusive n8 datasets, the latest APIs and SDKs, beacons, sensors and various other technologies. After this session, the teams get to work!
+
+    Rack your brains and start developing winning solutions to the n8 challenge 
+
+Twelve hours before Museum Night begins, all teams pitch their idea (an MVP, a prototype or even an interactive solution) to a jury, who will give expert feedback, including improvements that would be needed to win. From that point, the teams have 12 hours to perfect their product in order to demo it at the Museum Night’s grand opening.
+Register now!
+
+We are looking for app developers, start-ups, designers and other creative minds who want to make Amsterdam an even better city for people to live in and to visit. All participants get free Museum Night tickets, and the winning team will take home a €3,500 cheque.
+
+    But even more importantly, together we will try to make sure your app will be a success. 
+
+Date and place
+
+    Kick-off – ‘guru session’: Van Gogh Museum,  October 23rd, 19:30-21:30
+    Hackathon: November 7th, 8:00-20:00 (location to be confirmed)
+
+Partners
+
+Amsterdam Marketing, Museumnacht, City of Amsterdam, Amsterdam Economic Board, Appsterdam, DAT.mobility, Ziggo, Booking.com, Glimworm, Van Gogh Museum

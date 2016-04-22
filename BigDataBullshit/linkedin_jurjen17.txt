@@ -1,0 +1,27 @@
+Have you heard about Watson, IBM's supercomputer with the ability of cognitive reasoning? It's likely you did, especially when you're involved in IT or followed the news lately; mining millions of tweets, research cancer and treat patients, finding new drugs, supporting research teams analyse vast troves of data to come up with new research ideas.
+
+In case you didn't hear any of this, please watch this short introduction which explains the basics of this supercomputer, which personally I find truly mind blowing and exciting at the same time!
+
+So in summary, Watson can think, it can interact with humans on human terms, it can read and understand natural language like tweets, texts, articles, studies and reports.
+
+When you ask it a question, Watson comes up with an hypothesis and comes up with a response and a level of confidence and even shows you the steps that it took to get to that response, so one could say it can reason.
+
+    The Watson Discovery Advisor could help researchers discover patterns that are hiding in the terabytes of data and then share these new insights within a matter of seconds.
+
+The beauty about Watson is that it will learn and become increasingly smarter through the interactions with humans. For example, it can learn the language of medicine and finance, and in turn provide possible treatment options to doctors, or support investment advisors recommend the best way to plan for retirement.
+
+The Watson Discovery Advisor could help researchers discover patterns that are hiding in the terabytes of data and then share these new insights within a matter of seconds. Through its Analytics Watson it could even show you what the data means in a way that's easy for anyone to understand and share.
+
+Through the Watson Developers Cloud, IBM offers software developers and vendors the technology and tools they need to take advantage of Watson's cognitive power, accessible on the cloud. Developers can solve new problems that seemed impossible to solve before.
+
+    The problems we are facing right now are too complicated for a single human to figure out all by themselves" - Daniel Hillis, Co-Chairman Applied Minds
+
+Personally I am driven by my purpose to solve the most daunting societal challenges such as climate change and healthcare, but clearly I am under no illusion that I could tackle such huge topics on my own, or even together with a large group of the most intelligent people. These are grand challenges that are highly complicated and would require, besides the brightest human minds, the support of machines with cognitive computing skills.
+
+Earlier this year I was involved in hosting a hackathon for health and more recently a hackathon for urban green living. At both events IBM Benelux provided their support through Bluemix, which is their open-standards, cloud-based platform for building, managing, and running apps. Although the Watson API was incorporated into the Bluemix platform at the Green Hackathon, the possibilities that cognitive computing could provide were too unknown for most participants, and due to the time challenge of this hackathon (create a working prototype within 48-hour), there were no specific solutions developed with this capability. A real shame, but an understandable one nonetheless.
+
+    Could Cognitive Computing provide the answers to our Healthcare and Climate Change Challenges?
+
+As I am currently involved in organising more social and business innovation events with similar challenges pertaining to healthcare and the environment, I will ensure to make Watson integral at these events.
+
+Finally, to get some insights behind the origins and purpose of IBM's supercomputer Watson, please watch this below video with Jon Iwata, who is the Senior VP of Marketing and Communications at IBM.

@@ -1,0 +1,30 @@
+Did you ever dream of creating solutions that could solve global challenges such as deforestation, access to drinking water, food development, disaster-preparedness, air traffic tracking or space exploration in general?
+
+If so then is time to wake up and register your dream project at the International Space Apps Challenge, which will be held at more than 135 locations worldwide (including virtual) at the weekend April 10-12.
+
+During this three-day hackathon, participants are asked to develop mobile applications, software, hardware, data visualisation and platform solutions that could contribute to space exploration missions and help improve life on Earth.
+
+    In case you are not familiar with the term hackathon, this is a blend of the words hack and a marathon; a technology development marathon that draw on the talents and initiative of bright minded volunteers - developers, engineers, technologists, designers and anyone with a passion and desire to have an immediate impact on the world. 
+
+The Challenges
+
+This year, 35 challenges represent NASA mission priorities in four areas: Earth Studies, Space Exploration, Human health research and Robotics. Many of the challenges are in the Earth theme, supporting NASA's missions to monitors Earth's vital signs from land, air and space.
+
+
+The Challenge exemplifies the principles of transparency, participation and collaboration by utilising openly available data, supplied through NASA missions and technology, and the talent and skill of passionate volunteers from around the planet to advance space exploration and improve the quality of life on Earth.
+
+    "These challenges provide opportunities for US and global citizen scientists, engineers, and students to interact and contribute to space exploration through code development, data analytics innovation, open source software and hardware," - Deborah Diaz, agency CTO at NASA HQ in Washington. 
+
+
+Data Bootcamp
+
+This year's challenge will include the first ever Data Bootcamp, with a focus on Women in Data. The bootcamp is open to the public and will give participants the opportunity to improve their skills with computer coding and data. The April 10 bootcamp will stream live online from the Global Mainstage, New York.
+Space Apps 2014
+
+Check this infographic for some insights into last year's Space Apps Challenge; 95 countries, 46 countries, 8,195 participants, 671 projects, most popular challenge was Earth Watch and over 29 million #spaceapps tweets!
+
+Register & FAQ
+
+If interested, register here, any further questions, check FAQ first.
+
+Follow the challenge on Twitter using the hashtag #spaceapps and perhaps see you at the hackathon virtually or locally in Noordwijk!

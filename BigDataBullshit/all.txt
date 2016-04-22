@@ -1,0 +1,941 @@
+One of the more important aspects of life is a person’s medical records. Not only do these records contain valuable information regarding an individual’s physical and mental history, but they are also filled with sensitive financial information. A date of birth, social security number, and other information, is of high value to hackers looking to commit identity theft.
+
+Storing medical records in the cloud doesn’t seem to be a viable option in our society any longer, as cloud services are prone to attacks and data loss. 
+
+MedVaultUsing decentralised database solutions, powered by blockchain technology seems to be the way forward, at least that is what the winners of the Blockchain Hackathon must have thought building ‘MedVault’, a Proof of Concept that would allow patients to record medical information on the bitcoin blockchain.
+
+Graham Rhodes, a MedVault developer, indicated that the project was able to separate from the competition because of its use of the blockchain to “anonymise” medical records.
+
+Rhodes told CoinDesk:
+
+    “[We’re] giving the patients control over their own medical records and the decision to make certain aspects public or private, while still being stored in a distributed global manner.”
+
+Though only a proof of concept, Rhodes indicated that the concept advanced toward discussions on user experience.
+
+Patients using a fully developed product, Rhodes said, would be provided with a QR code of their public key or patient identifier, which a doctor could then use to access their medical records.
+
+Rhodes’ continued:
+
+    “The vision here was that if a patient is on holiday skiing, crashes into a tree and gets knocked out, [the patient has] a key fob or another way to access their patient identifier, and doctors can immediately view their medical records,”
+
+On the tech side, MedVault uses digital asset startup Colu‘s platform, leveraging its software development kit to avoid “bloating” the bitcoin blockchain.
+
+“As the blockchain can only store so much information, Colu leverages the colored coin protocol and the BitTorrent network to store the digital asset and medical record in a verifiable way,” added Rhodes.
+
+Although still undecided about what the prize money will be used for, Rhodes suggested that it may be sensible to invest the funds into developing the product:
+
+    “With the attention it seems blockchain has been receiving lately, I feel like it would definitely be worth investing the money in it [the concept].”
+What if there’s a technological advancement so powerful that it transforms the very basic pillars of our society? A technology which fundamentally influences the way our economy, governance and business systems function and change our understanding of trade, ownership and trust?  
+
+Welcome to the technology of the Blockchain; a distributed ledger, a decentralised computational memory of human interactions. 
+
+    “There is something new and fundamental happening in the world which could be the start of the next enlightenment period. The core of this is shifting from centralised to decentralised models in all aspects of our lives, both individual and societally” –Melanie Swan – author of  Blockchain: Blueprint for a New Economy.
+
+The Essence of Bitcoin – The Blockchain
+
+The most widely known application of a blockchain is the public ledger of transactions for cryptocurrencies originally used in Bitcoin.
+
+People often think of Bitcoin as only virtual money or a transaction system. But if you look closer, you’ll see that the monetary aspect is just the tip of the iceberg. This is because Bitcoin is built on top a Blockchain Technology. 
+
+Not familiar with Bitcoins? Check this video
+
+    “It’s my belief that Blockchain technology will be as important to the world as Gutenburg’s printing press” Nic Cary, cofounder of Blockchain.info 
+
+The Blockchain – a Technology for Transactions
+
+People use the term ‘blockchain technology’ to mean different things, and it can be confusing.  Sometimes they are talking about The Bitcoin Blockchain, sometimes it’s smart contracts.  Most of the time though, they are talking about distributed ledgers, i.e. a list of transactions that is shared among a number of computers, rather than being stored on a central server.   
+
+    ‘”Check it on the Blockchain” will be the phrase of the 21st century. It will be as commonplace as people saying “Google that.” Nic Cary of Blockchain.info
+
+There are already thousands of developers and dozens of companies experimenting with blockchain applications, but we have yet to see large scale projects built around blockchain technology that are not bitcoin related.
+Blockchain and The Internet of Things
+
+The Internet of Things (IoT) could bring blockchain technology to the masses.Research firm IDC expects the user base to grow at a compound annual growth rate (CAGR) of 17.5% this decade, with up to 28.1 billion IoT devices in the wild by 2020, and revenue passing the $7 trillion mark the same year.
+
+IBM, are looking into ways of harnessing blockchain technology as part of their IoT development programs. Earlier this year they unveiled their proof of concept for ADEPT (Autonomous Decentralised Peer-to-Peer Telemetry), a system that uses elements of bitcoin’s underlying design to build a distributed n to build a distributed network of devices – a decentralised Internet of Things.
+
+Applying the blockchain concept to the world of IoT offers fascinating possibilities. Right from the time a product completes final assembly, it can be registered by the manufacturer into a universal blockchain representing its beginning of life. Once sold, a dealer or end customer can register it to a regional blockchain (a community, city or state). 
+Blockchain for Storing Medical Records
+
+One of the more important aspects of life is a person’s medical record. Not only do these records contain valuable information regarding an individual’s physical and mental history, but they are also filled with sensitive financial information. A date of birth, social security number, and other information, is of high value to hackers looking to commit identity theft.
+
+Storing medical records in the cloud may no longer be a viable option in our society, as cloud services are prone to attacks and data loss. Using decentralised database solutions, powered by blockchain technology could to be one way forward. Doing so would remove any central point of failure from the equation while bringing top notch security to boot.
+
+But these are not the only benefits. Internal communication between medical practitioners, mental institutions and hospitals would become far easier, more transparent, and more convenient. 
+Infinite Possibilities 
+
+There are almost endless applications of the Blockchain. However, most of these applications are at a pre-alpha development stage. With $927.36 million invested to date (19th October 2015) in Bitcoin and Blockchain startups, the Blockchain has not only the potential to change the face of our economy, governance and business systems, it has the potential to change the world!Robots to the Rescue - the Ideathon
+Apr 28, 2015
+
+    552 views
+    8 Likes
+    0 Comments
+
+    Share on LinkedInShare on FacebookShare on Twitter
+
+Are you fascinated, experienced or simply curious about robotics and human-robot interaction (HRI), then you should join this event!
+
+Robots to the Rescue is a series of events created to discover the world of robotics, explore how they be used to enrich people’s lives and collaborate of the creation of practical applications.
+
+    How could robots be used to assist the elderly suffering from Alzheimer’s or loneliness, people struggling from neurodegenerative disease such as ALS or kids trying to copy with neurodevelopmental disorder such autism?” 
+
+We shall kickstart this series with an "Ideathon" to generate ideas around the use of robots with the intention to bring these ideas to life at the "The Playground" as part of the UPRISE Festival on the 24-26 September.
+
+As the world of robotics is very broad, we have decided to focus these series on the social and human side of robotics, think of Humanoid Robots and Social Robots, such as NAO.
+
+
+Ideathon for Robots
+
+First of all, you don't need to be a coder, programmer, hacker or techie to join this ideathon. We are looking for people who have the creativity, affinity, imagination and general vision to come up with scenarios that could make people’s lives easier, more meaningful and supportive through the use of robotics.
+
+In the first part of the series we will provide an introduction on robotics, artificial intelligence and touch upon the ethical side of these technologies. We shall provide examples on how robots could be used to tackle challenges such as ageing, autism and independent living. 
+
+    Think about the possibilities when we programme humanoids with cognitive services such as Watson?  
+
+Robots meets Watson
+
+Watson is IBM's cognitive computer, a system that will learn and become increasingly smarter through the interactions with humans. It is built to mirror the same learning process that we have—through the power of cognition. What drives this process is a common cognitive framework that humans use to inform their decisions: Observe, Interpret, Evaluate, and Decide.
+
+In the case of humanoid robots, cognitive services could empower the core enablement for the interaction of robots with humans.
+
+As you can see from the below facts from the IEEE/RSJ International Conference on Intelligent Robots and Systems; cognitive robotics shall be a main grand research avenue that robotics R&D shall focus on.
+
+Collective Brainstorm 
+We shall continue with a breakout session which will consist of a collective brainstorm to generate ideas around the use of the robots based around the information provided and specific challenges that will be raised at the tables.
+
+We take the World Café method as our approach as this should encourage for a collaborative and informal brainstorm.
+
+Crowd-Voting 
+As the entire idea generation process is based around the “wisdom of the crowd”, so will the voting for the best ideas be dependent upon the crowd. All participants will be given the opportunity to vote for each others ideas and the ones with the highest ratings will win and enter the "The Playground" - it’s that simple!
+
+The crowd judging will be based around a mix of criteria: Innovative, Ingenuity and Impact. 
+
+Hope to see you around on the 22nd May. Please use this link to register your FREE participation. 
+
+More information?
+For more information, please check Robots to the Rescue
+
+Where & When
+The event will be hosted from MeetBerlage in Amsterdam on Friday 22 May 2015 from 13:00 - 18:00.
+
+The Program
+13:00 - Walk in
+13:30 - Welcome & Intro
+13:45 - Keynotes on Robotics, AI and Ethics  
+14:45 - Collective Brainstorm
+16:30 - Crowd-voting the Best Ideas 
+17:30 - Announcement Best Ideas 
+18:00 - DrinksDid you ever dream of creating solutions that could solve global challenges such as deforestation, access to drinking water, food development, disaster-preparedness, air traffic tracking or space exploration in general?
+
+If so then is time to wake up and register your dream project at the International Space Apps Challenge, which will be held at more than 135 locations worldwide (including virtual) at the weekend April 10-12.
+
+During this three-day hackathon, participants are asked to develop mobile applications, software, hardware, data visualisation and platform solutions that could contribute to space exploration missions and help improve life on Earth.
+
+    In case you are not familiar with the term hackathon, this is a blend of the words hack and a marathon; a technology development marathon that draw on the talents and initiative of bright minded volunteers - developers, engineers, technologists, designers and anyone with a passion and desire to have an immediate impact on the world. 
+
+The Challenges
+
+This year, 35 challenges represent NASA mission priorities in four areas: Earth Studies, Space Exploration, Human health research and Robotics. Many of the challenges are in the Earth theme, supporting NASA's missions to monitors Earth's vital signs from land, air and space.
+
+
+The Challenge exemplifies the principles of transparency, participation and collaboration by utilising openly available data, supplied through NASA missions and technology, and the talent and skill of passionate volunteers from around the planet to advance space exploration and improve the quality of life on Earth.
+
+    "These challenges provide opportunities for US and global citizen scientists, engineers, and students to interact and contribute to space exploration through code development, data analytics innovation, open source software and hardware," - Deborah Diaz, agency CTO at NASA HQ in Washington. 
+
+
+Data Bootcamp
+
+This year's challenge will include the first ever Data Bootcamp, with a focus on Women in Data. The bootcamp is open to the public and will give participants the opportunity to improve their skills with computer coding and data. The April 10 bootcamp will stream live online from the Global Mainstage, New York.
+Space Apps 2014
+
+Check this infographic for some insights into last year's Space Apps Challenge; 95 countries, 46 countries, 8,195 participants, 671 projects, most popular challenge was Earth Watch and over 29 million #spaceapps tweets!
+
+Register & FAQ
+
+If interested, register here, any further questions, check FAQ first.
+
+Follow the challenge on Twitter using the hashtag #spaceapps and perhaps see you at the hackathon virtually or locally in Noordwijk!This sounds great of course "Everybody has the Power to Create", but what does this mean? The power to create what, and for what purpose should we create?
+
+Before I go into this, you may also ask yourself, where does this quote come from?
+
+It is taken from the RSA - The Power to Create which aims to offer a vision on how to empower people to be active participants in creating a world they want to live in.
+
+For the ones that are unfamiliar with this organisation, the RSA stands for the Royal Society for the encouragement of Arts, Manufactures and Commerce. It is a 260-year old enlightenment organisation that is committed to finding innovative creative practical solutions to today’s social challenges, or as its strap line suggests; the 21st century enlightenment.
+
+It was founded in a coffee shop in Covent Garden in 1754 and has a wealth of notable achievements and Fellows in its 250-year history, such as Charles Dickens, Benjamin Franklin, Karl Marx, Stephen Hawking, David Attenborough, Nelson Mandela and Tim Berners-Lee.
+
+    21st century enlightenment: Enriching society through ideas and action. Our mission is to create the conditions for the enlightened thinking and collaborative action needed to address today's most pressing social challenges. 
+
+Through its ideas, research and 27,000-strong Fellowship it seeks to harness the extraordinary amount of untapped creative potential in society - by empowering people to be active participants in creating a better world.
+
+Everybody has "The Power to Create"
+
+So back to "The Power to Create" and its vision to empower people to be active participants in creating a world they want to live in.
+
+In the following extract, taken from an annual RSA Chief Executive's Lecture, Matthew Taylor offers a vision for the future - a world where every individual has the freedom and opportunity to develop their unique capabilities to the full.
+
+    Let's think about the creative life in this way; everyone having the skills, confidence and opportunity to make their ideas a reality. Whether that idea is a performance, a product, a service, a business, even a social movement." 
+
+ 
+
+A couple of extracts which I believe are worth highlighting...
+
+    The 21st century presents us with huge challenges. How can we empower people to be active participants in creating a world we want to live in? 
+
+    It's clear we urgently need this creative power. The world is facing big challenges. Problems like caring for an ageing population, tackling growing inequality, responding to climate change. It will take our combined creativity to find the breakthrough solutions we need. 
+
+    We need to address the way our institutions behave, the way they treat people and the way our government is run. Leaders have to think differently about how they motivate and mobilise. Lasting social progress only comes about when governments work in partnership with communities, drawing on the creative capacities of all citizens, recognising them, not as bundles of need, but as huge untapped assets. 
+
+    We need to make sure that assets like finance, intellectual property, networks are not just hoarded by the few, but made available as resources for a truly creative society. 
+
+    All human beings can be the authors of their own lives. We are all born with the muscles for creativity, muscles that grow with the exercise of self-determination. This is what we call
+    the Power to Create.
+
+Fellowship
+
+About a year and a half ago I decided to join their Fellowship as their purpose and commitment strongly resonated with my personal ambition to solve societal challenges and create a better world.
+
+More recently I have become their connector for the Netherlands to act as a first port-of-call for new Fellows who want to find out more about the RSA and get involved, besides supporting local Fellows to organise events and collaborate on projects.
+
+To date I have provided my support on a Hackathon for Health, a Hackathon for Green Urban Living, a collective for social innovation Urban-Goods and the organisation of the "Meet the Robots" series.
+
+If you're interested in joining the Fellowship and/or discuss collaboration around your event or project, please do not hesitate to reach out.Following on from my earlier post on IBM Watson, in which I provided a short introduction into this cognitive computing system, in this post I am going to highlight the latest services that have been made available to build your own cognitive apps.
+
+In case you're not yet familiar with Watson, please watch this video to find out how it works...
+
+What are cognitive apps?
+
+Cognitive apps are able to interact with humans on human terms, understand natural language, learn from experience, identify hidden pattern, trends and are capable of putting content into context with confidence-weighted responses and supporting evidence.
+
+They are intelligent apps, especially with the knowledge that over time they will start to simulate more closely how the human brain works. When they get to that stage, they could support us in solving the world’s most complex problems!
+What are the services that have been made available to create these cognitive apps?
+
+The following services can be found in the Watson Developer Cloud and have been made available through IBM's App Development Platform Bluemix.
+
+Click on the images to see further explanation and demos.
+
+Concept Expansion
+Maps euphemisms or colloquial terms to more commonly understood phrases. For example, it could interpret "The Big Apple" as meaning "New York City.
+
+Concept Insights
+Explores information based on the concepts behind your input, rather than limiting investigation to findings based on traditional text matching.
+
+Language Identification
+Identifies the language in which text is written. This helps inform next steps such as translation, voice to text or direct analysis.
+
+Machine Translation
+The Machine Translation service converts text input in one language into a destination language for the end user. Translation is available among English, Brazilian Portuguese, Spanish, French and Arabic.
+
+Message Resonance
+This service analyses draft content and scores how well it is likely to be received by a specific target audience. This analysis is based on content that has been written by the target audience itself, such as fans of a specific sports team or new parents.
+
+Personality Insights
+Enables deeper understanding of people's personality characteristics, needs, and values to help engage users on their own terms.
+
+Question and Answer
+Interprets and answers user questions directly based on primary data sources (brochures, web pages, manuals, records, etc.) that have been selected and gathered into a body of data or 'corpus'.
+
+Relationship Extraction
+From unstructured text, Relationship Extraction can extract entities (such as people, locations, organisations, events), and the relationships between these entities (such as person employed-by organisation, person resides-in location).
+
+Speech to Text
+Converts the human voice into the written word. It uses machine intelligence to combine information about grammar and language structure with knowledge of the composition of the audio signal to generate a more accurate transcription.
+
+Text to Speech
+This service synthesises natural-sounding speech from English or Spanish text. It understands text and natural language to generate synthesised audio output complete with appropriate cadence and intonation.
+
+Tradeoff Analytics
+This service helps users make better choices to best meet multiple conflicting goals, combining smart visualisation and recommendations for trade-off exploration.
+
+User Modeling
+This service uses linguistic analytics to extract cognitive and social characteristics, including Big Five, Values, and Needs, from communications that the user makes available, such as email, text messages, tweets, forum posts, and more.
+
+Visual Recognition
+This service enables you to analyse the visual appearance of images or video frames to understand what is happening. Using machine learning technology, semantic classifiers recognize many visual entities, such as settings, objects, and events.
+
+Visualisation Rendering
+This service provides graphical representations of data analysis for easier understanding. It offers interactive data visualisations that can range from common business charts to more advanced layouts.
+
+Since its creation in October 2013, the Watson Developer Cloud has evolved into a community of over 5,000 partners who have unlocked the power of cognitive computing to build more than 6,000 apps to date.
+
+If you want to stay up to date on the latest news and discussions, please join the IBM Watson Group.In my earlier post "Envisioning the Future through Technologies" I highlighted the exponential growth of computers and likely projections for the next 25-30 years.
+In this post I shall focus my attention on computer vision and compare this to the visual system of humans and try to answer questions such as:
+
+    Will computers (and machines) be able to outperform humans in their ability to recognise images and objects in highly complex (convoluted) situations?
+    Can a computer replicate the functioning of a human brain?
+    What are some of the predictions around computer power in relation to brainpower for the next 30 years?
+
+Visual System of Humans
+
+Humans use their eyes and their brains to see and visually sense the world around them, or create a visual perception. This perception is created through our visual system (as illustrated on the right) which detects, processes and interprets information from visible light to build a representation of the surrounding environment.
+Computer Vision
+
+The field of computer vision aims to give a comparable, if not better, capability to a computer via automatic extraction, processing, and analysis of relevant information from a single image, sequence of images, or multi-dimensional data. It involves the development of a theoretical and algorithmic basis to achieve automatic visual understanding.
+
+To achieve such aim, we require a deeper insight and understanding into how our brain functions and replicate this through the adoption of artificial intelligence such as a convolutional neural network (CNN) or deep learning.
+
+CNN is a type of artificial neural network where the individual neurons are tiled in such a way that they respond to overlapping regions in the visual field.
+
+These convolutional networks were inspired by biological processes and consist of multiple layers of artificial neurons (MLPs) arranged in a way that reflects the way the human brain processes vision.
+
+    Machines are now almost as good as humans at object recognition... It's not going to be long before machines significantly outperform humans in image recognition tasks..."
+    - MIT Technology Review 
+
+The visual cortex in our brain, contains a lots of cells. These cells are responsible for detecting light in small, overlapping sub-regions of the visual field. These cells act as local filters over the input space. A convolution operator is created to perform the same function by all of these cells.
+
+The famous Network "LeNet" from Yann LeCun is already able to classify digits successfully, and applied to recognise checking numbers. However, as they discovered, without efficient computing resources and methods for more complex problems, its performance remains insufficient.
+
+Now with the rise of efficient GPU computing and the exponential performance of CPUs (according to Moore's Law), it has become possible to train these highly complex (convoluted) networks.
+
+
+Looking at the illustration above and going back to around 1980, when the first Personal Computers hit the market, it is astonishing to see the enormous growth in computing power that took place in the past 30 years.
+
+Looking at the predictions for next 30 years, the expected growth in computer power is simply mind-blowing; this year 2015 we supposedly outperform the brainpower of a mouse, in 2023 surpass the human brain and in the year 2045 we are expected to surpass brainpower equivalent to that of all humans brains combined.
+
+The below animation "How Long Until Computers Have the Same Power As the Human Brain?" from Chris Philpot and Brett Brownell published in Mother Jones provides an analogy of the volume in fluid of Lake Michigan compared with our brain's capacity (in calculations per second). According to Moore's Law, computing power doubles every 18 months. At that rate, you see very little progress for a long time, and suddenly you're finished.
+
+On a nearly daily basis I am witnessing new technological breakthroughs on the performance of our own AI-based technologies and are very much inline with these predictions. From the moment we started to incorporate deep learning algorithms into our computer vision system, the capability to automatically recognise images (or detect specific brands) improved significantly.
+
+Our current focus with the technology is to advance the broadcast and media industry and improve on the performance and efficiency of their business processes. Think for example of the automation of brand exposure analysis or the automatic detection of product placement within the scene of a particular TV program.
+
+One can only imagine the possibilities of computer vision, with the knowledge of the predicted growth and cross-disciplinary approaches in the field of Artificial Intelligence.
+This question has been playing on my mind for some time and became more prominent after my participation at the Hack the Brain hackathon.
+
+At this event I used an EEG biosensor, a Brain-Computer Interface from NeuroSky, specific brain activation frequencies and a heart rate monitor to subsequently alter a visual projection controlled through conscious brain activation and amplified by my heart beat.
+
+Did this (relatively basic and non-scientific) experiment managed to change my belief and behaviour? I believe it certainly did, because...
+
+    I became more consciously aware of my own senses and activity
+    I started (and maintained) a daily guided meditation program to increase my self awareness, boost my energy levels, reduce my stress levels and
+    I started using Focus@Will, a neuroscience based music service to help me focus when I am working, writing and reading or anything else that requires my attention.
+
+So the answer to this question is a "yes" for me; technologies such as software programs on my computer, mobile applications and sensors can support me in changing my behaviour, and for the better (i.e. boost energy, reduce stress, increase focus). Moreover, I am convinced that I am slowly altering my thought process and become more in control of my attention, intention and motivations due to an increased self awareness of my senses.
+
+    Can Technology Change People's Beliefs and Behaviours? 
+
+I am also very aware that this question could trigger an ethical and philosophical debate, due to its association to our thought process, belief system or perhaps even our own existence of being human!
+
+Without making this too complicated, as with most things in life it is all about the intention that people have; with bad intentions they could cause damage and with good intentions they could create a positive impact. This of course sounds very simplistic without any form of scientific reasoning, hence why I would like to take a closer look at the study of Persuasive Technology.
+
+    Persuasive technology is technology that is designed to change attitudes or behaviors of the users through persuasion and social influence, but not through coercion. 
+
+The study of persuasive technology began at the Stanford University in the 1990s. BJ Fogg, as a Stanford doctoral student from 1993-1997, used methods from experimental psychology to demonstrate that computers can change people’s thoughts and behaviors in predictable ways. His thesis was entitled “Charismatic Computers” and he went on to establish the Persuasive Tech Lab in 1998.
+
+This Lab performs research into computers as persuasive technologies and is part of the Human Sciences and Technologies Advanced Research Institute at Stanford University (H-STAR).
+
+As it seems, most self-identified persuasive technology research focuses on interactive, computational technologies, including desktop computers, Internet services, video games, and mobile devices, but this incorporates and builds on the results, theories, and methods of experimental psychology, rhetoric, and human-computer interaction.
+
+    The design of persuasive technologies can be seen as a particular case of design with intent. 
+
+In today’s world, people don’t need scientific data to believe computing technology influences people. From websites to mobile applications, the evidence is all around us now. Persuasive technology is part of our ordinary experience.
+
+Take for example the fuel meters that are installed in hybrid cars such as the Toyota Prius or Ford Fusion informing drivers about their fuel consumption efficiently. The system’s real-time feedback acts as personal driving coach on how to maximise fuel efficiency, so the driver learns overtime how to change the way they drive to improve their score.
+
+In the online world, we meet persuasion attempts at every click. Virtually every website has a persuasive purpose: the creators intend to affect user attitudes or behaviours in some way: like and share for your chance to win, recommend a friend and receive, enter your email address.
+What Causes Behaviour Change?
+
+The Fogg Behaviour Model (FBM) shows that three elements must converge at the same moment for a behaviour to occur: Motivation, Ability, and Trigger (MAT). When a behaviour does not occur, at least one of the three elements is missing.
+
+    Lack of Motivation
+    Lack of Ability
+    Lack of a well-timed Trigger to perform the behaviour.
+
+First of all, a person must have sufficient Motivation to perform the target behaviour. Dr BJ Fogg defines Motivation with three dimensions: sensation, anticipation, and belonging. By manipulating any one of these dimensions, designers can manipulate motivation.
+
+The second element of the behaviour model is Ability. This means that a person must be able to perform the target behaviour. In real-world practice, designers often overlook this element, assuming their audience is more capable than they really are. Two paths lead to increased ability:
+
+    You can train people to have more skills, which is the hard path: persuading people to learn new things.
+    The better path is to make the target behaviour simpler to do. Six factors have been identified that affect simplicity as: time, money, physical effort, brain cycles, social deviances and non-routine. In most situations behaviour change occurs only when the behaviour is easy to do.
+
+The third element of the model is Triggering the Behaviour. A Trigger can be a reminder, a deadline, among other things. In essence a Trigger tells someone to “do it now”. Technology interventions that require only a trigger are the easiest to create and the most likely to succeed.
+
+The common mistake is to focus solely on motivation. But the path to success often is about increasing ability and triggering the behaviour.
+
+I just received a message on Skype from my wife asking me to get some wine from the shop for tonight; I am easily triggered :-)I believe it is fair to say that globally we are faced with the greatest economical, ecological and social challenge of our lifetime. As a consequence, paradigmatic shifts seem inevitable and taking drastic measures have become paramount.
+
+Just to be clear, I am not an economist. I am merely an observer of our economy with an environmental scientific background and a great passion for change and innovation supported through emerging and disruptive technologies, such as cognitive computing.
+
+The intention that I have with this post is to share my thoughts on the state of the economy and what I believe that could be done to make it more inclusive, sustainable and thriving.
+
+Economy and Ecology
+
+When we talk about economy and ecology it sometimes feels like we are talking about two complete separate matters, despite of the fact they share a common etymological root; eco or oikos in Greek means "house", or with the more general sense "environment", "nature", or "natural habitat".
+
+Nomy can be traced back to the Greek word nemein, "to manage". So the meaning of economy could be described as "to manage the house" or "household management", oikonomia.
+
+Logy is derived from the Greek -logia which means "study of". Ecology could therefore be described as the study of the environment; a branch of science concerned with the interrelationship of organisms and their environment.
+
+So in short, economy talks about "use" whereas ecology speaks of "relationships".
+
+    Humanity is now using 1.5 Earth's world of resources"
+
+One could argue that the reason why our economy is in such turmoil is because we have lost the ability to harbour our relationship with our natural habitat. We have become increasingly detached from the reality of our environment. As it stands today, the management of our global household is totally out of control and not sustainable.
+
+This becomes clear when we look at the data from the Global Footprint Network, which informs us that humanity is now using 1.5 Earth's world of resources.
+
+Humanity is now using nature’s services 50 percent faster than what Earth can renew, reveals the 2010 edition of the Living Planet Report – the leading survey of the planet’s health.
+
+    For the economy itself will die if our ecosystems collapse" - Leonardo DiCaprio at the UN Climate Summit 
+
+Clearly it is an understatement when I say this is bad management. Our use of the earth's resources needs to change and it needs to change quickly. Especially when we have the means, the technological innovation and the scientific imagination to facilitate this change.
+Ecological Economics & Creating Shared Value
+
+We require a new economic system that will address the interdependence and coevolution of human economies and natural ecosystems over time and space, or in other words we require to think more alongside ecological economics and creating shared value.
+
+We need to bring our economy and ecology closer together as one, as thus far they point to perspectives that do not seem to connect. We are required to implement a system that will manage our environment more responsibly and be rewarded when we create a positive impact on our balance sheet from an economic, social and ecological perspective.Have you heard about Watson, IBM's supercomputer with the ability of cognitive reasoning? It's likely you did, especially when you're involved in IT or followed the news lately; mining millions of tweets, research cancer and treat patients, finding new drugs, supporting research teams analyse vast troves of data to come up with new research ideas.
+
+In case you didn't hear any of this, please watch this short introduction which explains the basics of this supercomputer, which personally I find truly mind blowing and exciting at the same time!
+
+So in summary, Watson can think, it can interact with humans on human terms, it can read and understand natural language like tweets, texts, articles, studies and reports.
+
+When you ask it a question, Watson comes up with an hypothesis and comes up with a response and a level of confidence and even shows you the steps that it took to get to that response, so one could say it can reason.
+
+    The Watson Discovery Advisor could help researchers discover patterns that are hiding in the terabytes of data and then share these new insights within a matter of seconds.
+
+The beauty about Watson is that it will learn and become increasingly smarter through the interactions with humans. For example, it can learn the language of medicine and finance, and in turn provide possible treatment options to doctors, or support investment advisors recommend the best way to plan for retirement.
+
+The Watson Discovery Advisor could help researchers discover patterns that are hiding in the terabytes of data and then share these new insights within a matter of seconds. Through its Analytics Watson it could even show you what the data means in a way that's easy for anyone to understand and share.
+
+Through the Watson Developers Cloud, IBM offers software developers and vendors the technology and tools they need to take advantage of Watson's cognitive power, accessible on the cloud. Developers can solve new problems that seemed impossible to solve before.
+
+    The problems we are facing right now are too complicated for a single human to figure out all by themselves" - Daniel Hillis, Co-Chairman Applied Minds
+
+Personally I am driven by my purpose to solve the most daunting societal challenges such as climate change and healthcare, but clearly I am under no illusion that I could tackle such huge topics on my own, or even together with a large group of the most intelligent people. These are grand challenges that are highly complicated and would require, besides the brightest human minds, the support of machines with cognitive computing skills.
+
+Earlier this year I was involved in hosting a hackathon for health and more recently a hackathon for urban green living. At both events IBM Benelux provided their support through Bluemix, which is their open-standards, cloud-based platform for building, managing, and running apps. Although the Watson API was incorporated into the Bluemix platform at the Green Hackathon, the possibilities that cognitive computing could provide were too unknown for most participants, and due to the time challenge of this hackathon (create a working prototype within 48-hour), there were no specific solutions developed with this capability. A real shame, but an understandable one nonetheless.
+
+    Could Cognitive Computing provide the answers to our Healthcare and Climate Change Challenges?
+
+As I am currently involved in organising more social and business innovation events with similar challenges pertaining to healthcare and the environment, I will ensure to make Watson integral at these events.
+
+Finally, to get some insights behind the origins and purpose of IBM's supercomputer Watson, please watch this below video with Jon Iwata, who is the Senior VP of Marketing and Communications at IBM.
+
+There is really no denying that our climate has changed and that our globe is warming up as a result. Many of us are very aware of this fact but somehow we feel powerless and seem to rely upon our political and industry leaders to counter this change.
+
+    Solving this crisis is not a question of politics, it is a question of our own survival" - Leonardo DiCaprio at UN Climate Summit
+
+Although it is understandable that we look at the most influential stakeholders to solve this climate crisis, I believe it to be crucial to alter our own perception and behaviour towards this global threat, but the question remains how?
+
+We could of course run similar educational campaigns as we - the Netherlands - did back in the 90s and post a question directly towards the individuals in the hope they will change their attitude after seeing large and above-the-line campaigns on TV with straplines such as
+
+    Waar begint een beter milieu? Een beter milieu begint bij jezelf" (Where does a better environment start? A better environment starts with yourself)
+
+Nice initiative and great effort, but the problem simply is too complex for people to expect to change their behaviour just like that.
+
+Twenty years later and although one can argue that we managed to increase our ecological awareness and altered our perception on sustainability in general, when we look at the current ecological state of the world, the statistics are undeniable and concerning; a continuous and nearly exponential rise in the emissions of carbon dioxide, which is at the root of the global warming and ecological crisis.
+
+To counter climate change, I believe that we should use our collective mindset, ability and attention and look at innovative solutions that have the capability to be industry-changing.
+
+As US President Obama mentioned in his UN Climate Change Summit speech
+
+    We will put forward our next emission target reflecting our confidence in the ability of our technological entrepreneurs and scientific innovators to lead the way" - Barack Obama
+
+Even film stars such Leonardo DiCaprio have entered the scene and used their celebrity status to create awareness and call for action towards this increasing ecological threat.
+
+    We need to put a price tag on carbon emissions and eliminate government subsidies for all oil, coal and gas companies. We need to end the free ride that industrial polluters have been given in the name of free market economy. They do not deserve our tax dollars, the deserve our scrutiny. For the economy itself will die if our ecosystems collapse" - Leonardo DiCaprio
+
+Below is a short compilation of both President Obama and Leonardo DiCaprio's powerful speeches at the Climate Summit held at the UN Headquarters in New York on the 23rd September 2014.
+
+One way to generate ideas and develop innovative solutions is through social innovation events such as hackathons.
+
+    Hackathons (also known as a hack day, hackfest or codefest) are events where people with multi disciplinary (technical, scientific and artistic) backgrounds come together and collaboratively code to solve specific challenges over a short space of time.
+
+Earlier this month I was involved in hosting a hackathon for Urban Green Living - the Green Hackfest.
+
+At this Green Hackfest it was all about applied sustainability, which is the application of science and innovation to meet human needs while indefinitely preserving the life support systems of the planet. The winner of the Best Overall Hack came up with a solution to reduce the amount of cars in our city based around an intelligent travel system alerting users via push notifications about greener methods of travel.
+
+Another hack I would like to highlight was the winner of the Bikenomics challenge "Mindful Meerkats". This group came up with an idea to design a game that provides the majority of people with incentives to reflect upon their individual behaviour and engage in more sustainable lifestyles. An inspiring concept that encourages people to become more mindful through the reflection of one self and the direct feedback from its natural environment.
+
+At the moment I am planning a hackathon "Code for Climate Change", which is dedicated to finding solutions to counter carbon emissions. Please feel free to contact me for more information or to discuss how to get involved in this event.
+
+
+There is really no denying that our climate has changed and that our globe is warming up as a result. Many of us are very aware of this fact but somehow we feel powerless and seem to rely upon our political and industry leaders to counter this change.
+
+    Solving this crisis is not a question of politics, it is a question of our own survival" - Leonardo DiCaprio at UN Climate Summit
+
+Although it is understandable that we look at the most influential stakeholders to solve this climate crisis, I believe it to be crucial to alter our own perception and behaviour towards this global threat, but the question remains how?
+
+We could of course run similar educational campaigns as we - the Netherlands - did back in the 90s and post a question directly towards the individuals in the hope they will change their attitude after seeing large and above-the-line campaigns on TV with straplines such as
+
+    Waar begint een beter milieu? Een beter milieu begint bij jezelf" (Where does a better environment start? A better environment starts with yourself)
+
+Nice initiative and great effort, but the problem simply is too complex for people to expect to change their behaviour just like that.
+
+Twenty years later and although one can argue that we managed to increase our ecological awareness and altered our perception on sustainability in general, when we look at the current ecological state of the world, the statistics are undeniable and concerning; a continuous and nearly exponential rise in the emissions of carbon dioxide, which is at the root of the global warming and ecological crisis.
+
+To counter climate change, I believe that we should use our collective mindset, ability and attention and look at innovative solutions that have the capability to be industry-changing.
+
+As US President Obama mentioned in his UN Climate Change Summit speech
+
+    We will put forward our next emission target reflecting our confidence in the ability of our technological entrepreneurs and scientific innovators to lead the way" - Barack Obama
+
+Even film stars such Leonardo DiCaprio have entered the scene and used their celebrity status to create awareness and call for action towards this increasing ecological threat.
+
+    We need to put a price tag on carbon emissions and eliminate government subsidies for all oil, coal and gas companies. We need to end the free ride that industrial polluters have been given in the name of free market economy. They do not deserve our tax dollars, the deserve our scrutiny. For the economy itself will die if our ecosystems collapse" - Leonardo DiCaprio
+
+Below is a short compilation of both President Obama and Leonardo DiCaprio's powerful speeches at the Climate Summit held at the UN Headquarters in New York on the 23rd September 2014.
+
+One way to generate ideas and develop innovative solutions is through social innovation events such as hackathons.
+
+    Hackathons (also known as a hack day, hackfest or codefest) are events where people with multi disciplinary (technical, scientific and artistic) backgrounds come together and collaboratively code to solve specific challenges over a short space of time.
+
+Earlier this month I was involved in hosting a hackathon for Urban Green Living - the Green Hackfest.
+
+At this Green Hackfest it was all about applied sustainability, which is the application of science and innovation to meet human needs while indefinitely preserving the life support systems of the planet. The winner of the Best Overall Hack came up with a solution to reduce the amount of cars in our city based around an intelligent travel system alerting users via push notifications about greener methods of travel.
+
+Another hack I would like to highlight was the winner of the Bikenomics challenge "Mindful Meerkats". This group came up with an idea to design a game that provides the majority of people with incentives to reflect upon their individual behaviour and engage in more sustainable lifestyles. An inspiring concept that encourages people to become more mindful through the reflection of one self and the direct feedback from its natural environment.
+
+At the moment I am planning a hackathon "Code for Climate Change", which is dedicated to finding solutions to counter carbon emissions. Please feel free to contact me for more information or to discuss how to get involved in this event.
+     Are you a game designer and/or developer who wants to build games that create a real impact in our society? 
+
+    Are you that data scientist who enjoys parsing through  oceans of data to find hidden patterns and insights? 
+
+    Are you a researcher or studying  oceanography, fish science, or  phycology and want to work with coders and designers to build cutting-edge solutions?  
+
+    Do you believe you've got what it takes to tackle this challenge? 
+
+Then apply for the Fishackathon in Amsterdam to enter the island from 22-24 April, for your chance to win €10,000 cash and €25,000 in development support. 
+
+About Fishackathon
+
+Fishackathon was launched in 2014 around Secretary Kerry’s Our Ocean Conference.
+
+Fishackathon was established to congregate brilliant minds for the purpose of developing usable solutions to address the problem of worldwide overfishing. Overfishing harms the marine environment and diminishes the already meager income of small scale fishermen. Fishackathon brings together computer programmers to find innovative ways to collect and analyze data, and find solutions for unsustainable fishing practices.
+
+Fishackathon 2016 is hosted by the U.S. Department of State, and is the third annual event.
+----- ∞ -----
+
+To see upcoming posts from me in your LinkedIn news feed, connect to his account by clicking the "Follow" button at the top right of the page.It was a full (48+ hours) weekend of non-stop brainstorming, designing, hacking, coding, developing and pitching to come up with the best solutions for "Green Urban Living" - the theme of the Green Hackfest.
+
+At this hackathon it was all about applied sustainability, which is the application of science and innovation to meet human needs while indefinitely preserving the life support systems of the planet.
+
+I was present at the front line and thoroughly enjoyed the intense brainstorming sessions that took place at the beginning of the event, the tense moments of making the rapid prototypes work, the stress prior the pitches and the excitement during the announcement of the winners - I could feel the energy flying around the hackathon with around 50 participants heavily debating, creating and pitching their green solutions that would solve the various briefs and challenges.Green Hackfest kicks off in Utrecht on the Netherlands National Day of Sustainability (Dag van de Duurzaamheid) starting Friday, October 10th running through to Sunday October 12th.
+
+A full weekend of massive green hacking where coders, developers, designers, entrepreneurs, hardware hackers, UX and UI specialists, scientists and others come together and brainstorm over a couple of days and build out their ideas in a short term innovation event.
+
+At this hackathon it’s all about applied sustainability - which is the application of science and innovation to meet human needs while indefinitely preserving the life support systems of the planet. A more refined definition would be called Just Applied Sustainability: the application of science and innovation to ensure a better quality of life for all, now and into the future, in a just and equitable manner, whilst living within the limits of supporting ecosystems.
+
+    Fly yourself to The Netherlands and let us take care of the rest... food and accommodation at UtrechtINC student building at the University of Utrecht! Bring your sleeping bag!
+
+This event is driven by Europe's Climate Kic, one of the world's largest public-private innovation partnerships focused on climate change and consisting of dynamic companies along with the best academic institutions and the public sector - along with UtrechtINC, a business incubator with an accelerator program... the Green Hackfest 2014 will offer thousands of euro in prizes, three days of hacking, two nights of accomodation at the venue and the opportunity to show work to some of Europe's top players in the Green movement.
+
+In this three day (two night) hackathon starting Friday afternoon and running through to Sunday evening (October 10-12, 2014), we are bringing together talented and bright developers to work on inspiring ideas, apps, games & smart solutions that have a direct impact on peoples awareness and/or their daily life and actions to help improve and sustain the living environment and nature.
+
+    Contribute to a sustainable European environment
+
+The Toolkit
+By tapping into the many APIs and SDKs from Green technology companies, and more than 100 publicly available APIs, participants of all skill areas will team up to cultivate new ways of solving old problems--brainstorming over two days to build new friendships and networks, and most importantly, design new products and services.
+
+Horizon 2020 Fund
+In addition to creating great solutions with brilliant people, don’t miss this unique opportunity to network with key people from Climate-KIC who hold the purse strings to the billions of euro slated for Green funding from the Horizon 2020 programme. Horizon 2020 is the largest government fund for innovation the world has ever seen, with €80 billion available overall.
+
+New Technology and Green
+Web and mobile-based devices are becoming increasingly important in tooling humans to better tackle the issues of sustainability. To demonstrate the effectiveness of these technologies, Green Hackfest 2014 will bring together a wide range of bright, enthusiastic people with multiple talents. Together they will use these technologies to address current Green challenges and present the results back to those attending the event.t is my intention to write a series of posts around "The Metaphor of Things" and to set the scene I am starting with The Meaning of a Metaphor.
+
+Metaphors could be seen as the basic building blocks of how we think and communicate. We make sense of the world by seeing how one part of it relates to and is reflected in another.
+
+    The world is my playground"
+
+Metaphors structure not only how we see the world, but also how we are able to see it, and thus how we are able to remake it. An example would be "The world is my playground" which has its emphasise on the word is opposed to as or like (a simile).
+
+The world is a playground for me, one that should be enjoyed and explored through continuous discovery and responsible play, like an infinite game as described by James P. Carse in his book Finite and Infinite Games.
+Metaphor in Philosophy
+
+Philosophy, the study of general and fundamental problems, is one key field that provides me various insights of life. It enables me to think about life from a fundamental perspective and provides me with meaning, principles and a life that is consequential.
+
+When looking at the Greek etymological meaning of metaphorá we end up "transfer" or "to carry over"; meta means “after” or “beyond” and phorus means “bearer” or “carrier” — so one could argue that we are talking about a form of transcending, or even transformation.
+The Metaphor in Metaphysics
+
+Continental philosophers have seriously addressed the need to rethink how the world appears to us and how it manifests to us in the light of their metaphysics (explaining the fundamental nature of being and the world that encompasses it).
+
+Metaphor has proven to be extremely important for this rethinking because it is the process of conceptual borrowing or reassignment which revises our perception of the world.
+
+One could argue that we could alter our perception of life and facilitate transformation in our society through conscious metaphorical thinking.
+
+And it is this subject, the subject of Transformation that I shall focus my attention to in the second part of The Metaphor of Things.We have entered a new paradigm, the digital paradigm; an era where analogue, mechanical and electronic technologies are being replaced by digital technologies.
+
+And this replacement is happening fast, not just for me, but I assume for most people?
+
+But before I got into this, please allow me to introduce myself a bit more and provide some context; I am a so called digital immigrant, born before the widespread adoption of digital technology and someone how had to learn how to cope with the rise of digital devices and technologies. This is unlike the digital natives, who started to interact with digital from birth.
+
+My first personal computer was in 1982, it was the Atari 800, a 8-bit computer that wasn't much used for coding but playing games such as Blue Max and International Karate.
+
+My interest for the technological side of computers was triggered after watching Star Trek and during my search for suitable technologies that could support me with the challenging ideas I've had over the years.
+
+Currently I am engaged with emerging technologies in the fields of Computer Vision and Deep Learning, supporting the broadcast, media and research industry to become more advanced and efficient.
+
+Despite the fact that I am daily engaged with various emerging technologies, it is becoming increasingly difficult to comprehend how this is going to change and support our lives in the future. Both from a personal as from a societal perspective.
+
+With the exponential growth of computers and the subsequent explosion of data, it would be fair to say that we are engaged into the digital revolution and entering the Information Age; an age where we will have access to data like running water from the tap.
+
+    Computers will be microscopic and nearly infinite in supply in the next 25 years"
+
+According to Peter Diamandis, the co-founder of Singularity University, this growth will only continue; computers will be microscopic and nearly infinite in supply in the next 25 years.
+
+This video illustrates the powerful implications of several emerging technologies such as 3D Printing, Robotics, Artificial Intelligence, moving into the Internet of Things, Infinite Computing and Synthetic Biology.
+
+Although some of these technologies may feel lightyears ahead of us, some of them are already becoming embedded into our lives such as Cloud Computing, 3D Printing, and now also with the up and coming Cognitive Supercomputer Watson.
+
+    A ‘new dimension’ in which Machine Augmented Cognition is made possible thanks to a exocortex based Internet"
+
+According to technology strategist and founder of Envisioning, Michell Zappa, within the next 30 years we would have moved into a ‘new dimension’ in which Machine Augmented Cognition is made possible thanks to a exocortex based Internet (i.e. cyborgs). Where energy is created from space-based solar power, where we can travel to space through space elevators and using immersive virtual reality interfaces to interact with the new world.
+
+Check out this below visualisation of emerging technologies for the next 15 years. Spanning across the various areas and industries such as energy, health, agriculture, materials, nanotechnology, neurotechnology, digital and communication technologies (click the enlarge)
+
+It will take time for us as individuals and as a society at large to understand how we’re going to adopt these advancements into our lives.
+
+For me it is important that we embrace those advancements that provide us with a more sustainable, conscious, prosperous and inclusive society.At the beginning of February, the Toon® API team hit the road to run the first hackathon of the year; the Hack-a-Toon®.  This hackathon was hosted around the theme "Smarter & Safer Homes with Toon®" and organised for students of the Hogeschool Rotterdam active across various faculties such as Informatics, Computer Science, Media Technology and Big Data.  
+The Teams & Challenges 
+
+To ensure that everyone got off to the good start, we took care of the team formation and installed the 'hacker-kits' at the Stadslab location in Rotterdam, prior to the event. Students were put together in cross-disciplinary teams based on the challenge they selected during registration. 
+The Hacker-Kits 
+
+The hacker-kits that each team received consisted of a Toon display, a Hue light, a Smart Plug and two-months worth of Toon field test data. These kits would enable the students to connect the devices with the Toon and use the data to determine opportunities and/or vulnerabilities. 
+
+The Pitches 
+
+Within 12 hours the teams had to come up with a concept, create a working prototype and pitch their solution to the panel of judges which consisted of Michel Fokke (CTO, Quby), Michel Muurmans (Manager Smart Home at Eneco) and Frank Meeuwsen (Community Architect at Triggi). 
+
+The solutions were judged on a series of criteria such its potential, originality, safety, value, usability, data/tech used and whether they managed to create working solutions. Of the 12 teams that pitched, there could only be three winners.  
+The Winners 
+
+The 3rd prize went to the team "Limited Gaming" who worked on the "Family of the Future" challenge.  They created a solution that would limit the amount of gameplay for kids. After a certain amount of gameplay, Toon would automatically warn the players that time is running out, through an indication of Hue lights turning red. When the game time is elapsed, the game system would shut down.  
+
+
+The 2nd prize was awarded to the team "Taircoon" who also took the "Family of the Future" challenge. Their solution would decide whether your air conditioning needs to provide assistance in lowering the room temperature. By taking the weather outside into account as well, Taircoon will decide if your air conditioning needs to help lowering the room temperature. If the temperature outside will drop soon, it might actually be smarter and more energy efficient to just open a window
+
+The 1st prize was given to team "Warm Alarm" who went for the "Pimp my Room" challenge.  As they explained this themselves, Warm Alarm tackles the daily struggle of waking up in a cold dark house. Although the Toon already has a neat feature which can set up programs for you, we created a solution using the alarm on your phone. If we know what time you will wake up, we can warm up your house while you're still asleep. And while we are at it, why not turn on your light on so you won't hit your head in the dark. Most people have a smartphone and use it to set their alarms. It will keep track of the alarms you have set and sends a message to your Toon if it is time to start warming up or turn on your light.
+Fun & Useful Solutions
+
+There were many more fun and useful solutions that the students came up with such as using a connected doorbell that used a Hue light to indicate when someone is standing outside the door, automatically switching off chargers when they're not charging anymore, or creating immersive light experiences during gaming.  
+
+Finally, a special mention goes out to team "Toonify" who came up with a concept where Toon would suggest the most optimal energy provider to its users, based on their actual usage and the deals available in the market.   
+
+All in all, it was a great day! The students gave us many valuable insights regarding the potential of the the Toon and most importantly, feedback on our new API!  
+Want to join a growing community?  
+
+Want to get your hands on the Toon® API and a growing community of smart home developers? Please sign up on toonapi.com and get your API key today! In my earlier post "Things" - How Smart Should They Become?, I discussed at the meaning of smart and how smart things should become. In this post I will focus on the safety side of things and the general security around the Internet of Things. 
+How Safe is Smart?
+
+Billions of sensors and smart devices are being built into our homes, including thermostats, doorlocks, baby monitors, smart plugs‎, all clever things that should make our lives more convenient and insightful. 
+
+But what about their safety and how secure are they from cyber criminals breaking into homes? 
+
+According to cyber security experts, manufacturers are not doing enough to protect smart things from hackers.
+
+    “Really, the state of security on these things right now is pretty atrocious,” Colby Moore, a security research engineer at the cybersecurity firm Synack 
+
+Earlier this year, Synack tested 16 home automation devices and found only one that its researchers couldn't easily break into. So it's fair to say, the IoT industry has some work to do in terms of following best security practices. See their full report below.
+
+If a cyber criminal can break into your home devices they can start to understand your behaviours and patterns — like when you are home and when you are not — putting your safety and privacy at risk.
+
+    “It’s almost like casing a bank. When somebody knows your behaviours and where you are going to be it’s easier to take advantage of their vulnerabilities,”  - Joe Loomis, CEO and founder CyberSponse 
+
+As Easy As Entering "Admin"
+
+Aamir Lakhani, a security researcher at Fortinet, explains how easy it can be to hack into video streams without any coding skills. He went to Shodan.io, which is a website that lets you search for devices that are connected to the Internet, or the "search engine for the Internet of Things", as he calls it. The site allowed him to hack into a video stream, picked at random, just by entering word "admin" for the camera's username and password! 
+
+    “Smart home hubs enable users to have control over the connected devices in their house, but they also open new doors for criminals,” -   Craig Young, Security Researcher at Tripwire
+
+While we are still in the early days of the smart home automation, these products could become a big problem because so many of the devices simply lack basic security measures and there are no industry standards for security on these types of devices.
+Apple HomeKit
+
+Apple has run into this problem with manufacturers looking to get onto the HomeKit Platform, a technology used to control smart home products with an Apple TV, iPhone or iPad.
+
+Apple is forcing manufactures to fit Apple-certified chips and firmware in their gadgets if they are to work with the HomeKit platform, according to a report from The Register.
+
+That means, in a lot of cases, engineers must effectively redesign their products to incorporate the mandatory HomeKit chips and firmware, and pass Apple's strict checklist of requirements, industry sources have told The Register. Such moves are expensive and time consuming, but ultimately benefit punters. 
+
+Without a certified communications chip, and the HomeKit firmware, the device cannot work with the HomeKit system. This could be the main reason behind the low numbers of compatible products, and increasing frustration in the industry with the tech giant.
+As Safe As Possible 
+
+While the devices themselves may be vulnerable by nature at this point, there are some ways to protect your connected homes and devices. Some of these security options include changing the default password, ensure to updating you're software as updates are released, or investing in a cybersecurity system such as Dojo or Webroot. 
+
+Dojo’s device — with a shipping date of early March 2016 — aims to create a consumer-friendly security and control interface at the network layer that the company claims is capable of spotting and blocking anomalous behaviour by connected devices on your home network. 
+
+     “There’s no industry standard and there’s is no way to tell if a product is secure or not if you are the average Joe. That is a big problem and it’s a problem that the industry needs to address and is thinking about,” Colby Moore from cybersecurity firm Synack. 
+
+Of course the most effective way to avoid getting your home hacked is to simply avoid buying smart home products until there is a better security standard put in place, but this may not an option! 
+
+Be Smart & Stay Safe!
+ 
+This "Cybersecurity and the Internet of Things" report highlights why being in a proactive position to anticipate and mitigate cyber threat is one of today’s most important business objectives.  
+
+To see upcoming posts from me in your LinkedIn news feed, connect to his account by clicking the "Follow" button at the top right of the page."Things" such as phones, watches, glasses, televisions, cars and even homes - everything is becoming smarter thanks to the Internet, ubiquitous computing and the use of Artificial Intelligence.
+
+The "Internet of Things" or simply IoT is now a commonplace term in day to day life. It is the communication that occurs between a network of "things" or physical objects that are enabled with internet connectivity.
+
+    The "Internet of Things" is network of "things" or physical objects embedded with electronics, software, sensors, and network connectivity, which enables these objects to collect and exchange data. 
+
+The interconnection of these embedded devices, including smart objects, is expected to provide support in automation such as Smart Homes, and enabling advanced applications like a Smart Grid, expanding into Smart Cities and eventually into a Smart World...
+
+    Smart Cities Will Use 1.6 Billion Connected Things in 2016 - Gartner  
+
+So our homes and cities are becoming smarter, but what does this mean for our lives, are we becoming any smarter? What does smart stand for and how smart do we want (or allow) things to become? 
+
+What is Smart?
+I was painfully surprised to find that the etymological meaning of  "Smart" pointing me towards "painful, severe, stinging; causing a sharp pain" - luckily we don't live in the 13th Century anymore!  In reference to devices I found "behaving as though guided by intelligence" (as in smart bomb) first came about in 1972. Smarts "good sense, intelligence," was first recorded in 1968. 
+
+    smart (adj.) late Old English smeart "painful, severe, stinging; causing a sharp pain," related to smeortan. Meaning "executed with force and vigor" is from c. 1300. 
+
+In the context of "Smart Things" I will settle for things that are "guided by intelligence" or things that have the ability to receive information and operate to some extent interactively and autonomously. 
+
+For things to have the ability to perceive information and retain it as knowledge to be applied towards adaptive behaviours within an environment, this should be something that's classed as a higher level of intelligence, given its ability of cognitive reasoning.
+What are Things?
+
+"Things" in the IoT sense, can refer to a wide variety of devices such as heart monitoring implants, biochip transponders on farm animals, automobiles with built-in sensors, or smart thermostat systems and washer/dryers that use Wi-Fi for remote monitoring. These devices collect useful data with the help of various existing technologies and then autonomously flow the data between other devices. 
+How Smart Should Things Become?
+
+I believe that we should strive to make things smart enough so that they can support people with things that matter; assisting people in becoming more resourceful of their energy consumption, to live an independent and healthier life, or generally to increase the awareness (cognition) of the environment and one self. 
+
+    “Providing real-time feedback is the best way to get consumers interested in adopting smart home technologies.” 
+
+
+Building A Smarter Future 
+
+Envision a future in which our environment is sensitive and responsive to the presence of people. For "things" to work in concert to support people in carrying out their everyday life activities, tasks and rituals in an easy, natural way using information and intelligence that is captured in the IoT Network.
+Ambient Intelligence
+
+I am talking about "ambient intelligence", a vision of the future (2020) that was commissioned by Philips in 1998, and sparked various initiatives such as the sixth framework (FP6) in Information, Society and Technology (IST) by the European Commission. Fraunhofer Society started several activities in a variety of domains including multimedia, micro-systems design and augmented spaces. MIT started an Ambient Intelligence research group at their Media Lab.
+
+The ambient intelligence paradigm is build upon a combination of pervasive computing, ubiquitous computing, profiling, context awareness, and human-centric computer interaction design and is characterised by systems and technologies that are: 
+
+    embedded: many networked devices are integrated into the environment
+    context aware: these devices can recognise you and your situational context
+    personalized: they can be tailored to your needs
+    adaptive: they can change in response to you
+    anticipatory: they can anticipate your desires without conscious mediation.
+
+Smart Environment 
+We are talking about environments that will adapt to the personal mental and physical state of people using smart watches that are capable of measuring one's health state, and Smart Machines that are cognitive and contextually aware. 
+
+Think of intelligent humanoid robots such as Pepper, self-driving cars and other cognitive computing systems such as Watson that are able to make decisions and solve problems without human intervention. 
+
+I am excited about a future where "things" will not only bring us comfort and joy, but will support us to living a more healthy life with increased awareness and altered intelligence!  We - The Hackitarians - Believe that Hackers Are the Alchemists of Our Time… The Masters of the Binary Evolution.
+
+Far too many people still envision hackers as evil. The name hacker itself to most conjures up images of some basement-dwelling, pimply geek who gets off on trying to hack the Pentagon or MI5… or even worse, messes with ordinary peoples’ computers making misery of our lives as we battle spam, malware, Trojans and other forms of time-wasting and spending money hand over fist getting things back to normal.
+
+But actually, as the English lexicon evolves the idea of hacking and hackers is changing. And the Hackathon is a huge reason for the change. Are you not sure you really know what a hackathon really is? Check here in Wikipedia, or check this slide show "What the heck is a Hackathon?".
+
+Basically, it’s a short term innovation event that uses advanced game mechanics and design to create a competition which helps drive innovation in a very short space of time. In Real Time. Most of the time… during a live event, but also can be held online and virtually. 
+
+Hackers are the alchemists of the 21st century — speaking the language of code — that drives so much of our lives this millennium. The coders, the developers, the designers, the user experience experts, the IT engineers, the data scientists and even the digital entrepreneurs are a new breed of shaman that are redesigning how we communicate and interact in our brave new world.
+
+The average smartphone owner in the UK checks their smartphone over 100 times a day – and the smartphone user experience and user interface are largely a creation of the kind of people who attend our hackathons. They have a serious amount of influence in most people’s lives, quite unlike any other device in the history of mankind.
+
+‘Hackers’ speak many languages, but in principle what makes them alchemists — is they all speak the mysterious language of “code.” 
+
+    Forget Esperanto… code is the lingo that essentially is binding us all into one universal binary language. 
+
+The playground of the new generation of hackers is what is called the Hackathon — a portmanteau of “Hack” and “Marathon.” And in its essence it’s about Rapid Prototyping, Cooperation and Co-Creation.
+
+And now, we are solving medical problems, civic issues, makings sense of massive amounts of data we are building via our digital universe, and reconnecting our world in the Internet of Things via hackathons.
+
+Hackathons, or Hackfests, used to be the domain of coding geeks getting together to show off their talents. Whilst that remains, the essential heart of the hackathon businesses are increasingly realising their worth too – and grasping the opportunity with both hands.
+
+Apple, Facebook and Google are just a few of the companies that have opened up their ecosystems and essentially outsourced innovation to the masses and have hundreds of thousands of developers and others building products for them on ‘spec’. These massive developer communities are helping them truly innovate.
+
+But through Hackathons the same potential is open to any company or traditional event organiser since a hackathon is but a microcosm of that scenario. Getting involved in a hackathon allows hackathon partners to bring technologies like SDKs and APIs for third party creative and developer minds to look at through a new lens. Or simply allows a venue for hackathon partners to present problems that need to be solved.
+
+Add in a few great prizes to help inspire their thinking and the result could be new ideas that traditional corporate R&D teams may never even have dreamed of. The big boys like Apple and Facebook have shown it is the way of the future. Twitter was conceived in a hackathon and Facebook’s own ‘like’ button for example came from a hackathon. Now we can bring that future to you.
+
+    Forget hacking the Pentagon or MI6 this is hacking for good and for innovation.  
+
+It is the chance for creatives, developers, coders, and entrepreneurs to get together, get creative and get to build cool stuff. It really is that simple.
+
+When we co-create a hackathon, we give the developers and creatives involved the problems and/or the APIs, SDKs and data supplied by our partners (or supply them from our API partners) – and then challenge them with briefs to code/design/engineer/make and break for 48 hours, building prototype solutions or ideas that drive ideas into the future.
+
+    It’s very simple. We love what we do. And more importantly… we drive innovation! 
+
+
+We are The Hackitarians. We want to make the world a better place. By Hacking It. That's What We Do. We Design, Build and Run Hackathons.What if there’s a technological advancement so powerful that it transforms the very basic pillars of our society? A technology which fundamentally influences the way our economy, governance and business systems function and change our understanding of trade, ownership and trust?  
+
+Welcome to the technology of the Blockchain; a distributed ledger, a decentralised computational memory of human interactions. 
+
+The Blockchain lets people who have no particular confidence in each other collaborate without having to go through a neutral central authority. Simply put, it is a machine for creating trust, according to the latest The Economist article "The Trust Machine".
+
+In essence it is a shared, trusted, public ledger that everyone can inspect, but which no single user controls.
+
+    "There is something new and fundamental happening in the world which could be the start of the next enlightenment period. The core of this is shifting from centralised to decentralised models in all aspects of our lives, both individual and societally" - Melanie Swan - author of  Blockchain: Blueprint for a New Economy. 
+
+The Essence of Bitcoin - The Blockchain
+
+The most widely known application of a blockchain is the public ledger of transactions for cryptocurrencies originally used in Bitcoin.
+
+People often think of Bitcoin as only virtual money or a transaction system. But if you look closer, you’ll see that the monetary aspect is just the tip of the iceberg. This is because Bitcoin is built on top a Blockchain Technology. 
+
+Not familiar with Bitcoins? Check this video 
+
+Bitcoin itself may never be more than a curiosity. However blockchains have a host of other uses because they meet the need for a trustworthy record, something vital for transactions of every sort.
+
+    “It’s my belief that Blockchain technology will be as important to the world as Gutenburg’s printing press” Nic Cary, cofounder of  Blockchain.info  
+
+The Blockchain - a Technology for Transactions
+
+People use the term ‘blockchain technology’ to mean different things, and it can be confusing.  Sometimes they are talking about The Bitcoin Blockchain, sometimes it’s smart contracts.  Most of the time though, they are talking about distributed ledgers, i.e. a list of transactions that is shared among a number of computers, rather than being stored on a central server.   
+
+    ‘”Check it on the Blockchain” will be the phrase of the 21st century. It will be as commonplace as people saying “Google that.”  Nic Cary of Blockchain.info 
+
+There are already thousands of developers and dozens of companies experimenting with blockchain applications, but we have yet to see large scale projects built around blockchain technology that are not bitcoin related.
+Blockchain and The Internet of Things
+
+The Internet of Things (IoT) could bring blockchain technology to the masses. Research firm IDC expects the user base to grow at a compound annual growth rate (CAGR) of 17.5% this decade, with up to 28.1 billion IoT devices in the wild by 2020, and revenue passing the $7 trillion mark the same year.
+
+IBM, are looking into ways of harnessing blockchain technology as part of their IoT development programs. Earlier this year they unveiled their proof of concept for ADEPT (Autonomous Decentralised Peer-to-Peer Telemetry), a system that uses elements of bitcoin’s underlying design to build a distributed n to build a distributed network of devices – a decentralised Internet of Things.
+
+Applying the blockchain concept to the world of IoT offers fascinating possibilities. Right from the time a product completes final assembly, it can be registered by the manufacturer into a universal blockchain representing its beginning of life. Once sold, a dealer or end customer can register it to a regional blockchain (a community, city or state). 
+
+    "Bitcoin is a transformative addition to Internet communication protocols that will create new networks of trust, fuel massive economic ecosystems, and create enduring long-term value." - Reid Hoffman, cofounder of LinkedIN 
+
+Blockchain for Storing Medical Records
+
+One of the more important aspects of life is a person’s medical record. Not only do these records contain valuable information regarding an individual’s physical and mental history, but they are also filled with sensitive financial information. A date of birth, social security number, and other information, is of high value to hackers looking to commit identity theft.
+
+Storing medical records in the cloud may no longer be a viable option in our society, as cloud services are prone to attacks and data loss. Using decentralised database solutions, powered by blockchain technology could to be one way forward. Doing so would remove any central point of failure from the equation while bringing top notch security to boot.
+
+But these are not the only benefits. Internal communication between medical practitioners, mental institutions and hospitals would become far easier, more transparent, and more convenient. 
+Infinite Possibilities 
+
+There are almost endless applications of the Blockchain. However, most of these applications are at a pre-alpha development stage. With $927.36 million invested to date in Bitcoin and Blockchain startups, the Blockchain has the potential to change the face of our economy, governance, business and healthcare systems - it has the potential to change the world!Hack the City of Amsterdam @MuseumNight Hackathon
+Oct 7, 2015
+
+    397 views
+    40 Likes
+    4 Comments
+
+    Share on LinkedInShare on FacebookShare on Twitter
+
+The I amsterdam Museum Night Hackathon is calling for participants to help find new ideas, tools and technologies for improving mobility, navigation and crowd management in the city. We are looking for app developers, start-ups, designers and other creative minds who want to make Amsterdam an even better city for people to live in and to visit.
+Making Amsterdam the best city in the world for residents and tourists
+
+We think that Amsterdam is the best city in the world to live and work in. However, its popularity is presenting new challenges in terms of mobility, navigation and accessibility: moving around has become less convenient for tourists and residents alike. This is becoming even more apparent during large-scale, citywide events such as Museum Night (also known as n8).
+New ideas and tools
+
+At the hackathon, participating teams are asked to come up with for real viable and innovative solutions to create balance in the city. New ideas, tools and technologies need to be created to solve urgent problems. These ideas should deal with:
+
+    Smart crowd management
+    Increased mobility and accessibility
+    Smart signage and public wayfinding
+    Enhanced visitor experience and engagement
+    Crowd insights and analytics
+    Improved public safety and security
+
+ 
+The challenge
+
+Amsterdam is thriving. The city counts close to one million residents and more than 15 million day visitors per year. But there is a worrying consequence to this positive development: with over 880,000 bicycles, 619 bike paths, 198 buses, 213 trams, 105 metros and more than 3,600 taxis on the streets every day, Amsterdam is constantly congested. The everyday balance between the various groups of residents and visitors as well as the different neighbourhoods of the city is disrupted. Improving infrastructure only goes so far, which is why Amsterdam Marketing and the Museum Night Foundation have launched this hackathon to find new ideas and tools.
+
+Not your typical hackathon
+
+The I amsterdam Museum Night Hackathon takes a slightly different form from the 48-hour sessions that are usually expected from a hackathon – there will be no overnight staying and smelling like a wet towel at the end of this one!
+
+Kick-off is two weeks before Museum Night (23rd October) with a ‘guru session’, a special training where the teams will be briefed on the challenge and introduced to exclusive n8 datasets, the latest APIs and SDKs, beacons, sensors and various other technologies. After this session, the teams get to work!
+
+    Rack your brains and start developing winning solutions to the n8 challenge 
+
+Twelve hours before Museum Night begins, all teams pitch their idea (an MVP, a prototype or even an interactive solution) to a jury, who will give expert feedback, including improvements that would be needed to win. From that point, the teams have 12 hours to perfect their product in order to demo it at the Museum Night’s grand opening.
+Register now!
+
+We are looking for app developers, start-ups, designers and other creative minds who want to make Amsterdam an even better city for people to live in and to visit. All participants get free Museum Night tickets, and the winning team will take home a €3,500 cheque.
+
+    But even more importantly, together we will try to make sure your app will be a success. 
+
+Date and place
+
+    Kick-off – ‘guru session’: Van Gogh Museum,  October 23rd, 19:30-21:30
+    Hackathon: November 7th, 8:00-20:00 (location to be confirmed)
+
+Partners
+
+Amsterdam Marketing, Museumnacht, City of Amsterdam, Amsterdam Economic Board, Appsterdam, DAT.mobility, Ziggo, Booking.com, Glimworm, Van Gogh MuseumNon-stop hacking, live coding and dancing to an algorave is what's all about at the upcoming IBC Hackfest event, hosted in the heart of the world's largest international broadcasting conference at the RAI in Amsterdam, the world's greatest party city!  
+
+The IBC Hackfest, powered by Amazon Web Services, is a creative playground where hackers, coders, developers, designers, creatives, entrepreneurs, hardware hackers, UX/UI specialists and others will come together and brainstorm for 48 non-stop hours to build out their ideas on the future of broadcasting.  
+
+By tapping into API's and SDK's made available through our technology partners such as Twitter and Monterosa, as well as scores of publicly available APIs, developers can work together with other participants to cultivate new ways of tackling old problems.  
+
+    Media Convergence and the Future of  Audiovisual Content Creation, Distribution, and Monetisation  
+
+The world’s media is converging and the rules are being rewritten... from brands creating content like Red Bull to production companies going direct to viewers. Internet players are coming to TV and TV is moving to the web.
+
+There are now Youtube stars that have audience and viewing numbers that make broadcasters look insignificant. Distribution and rights are the new quagmire and IP and terrestrial are squaring off in a new standoff, battling for ad dollars. Fragmentation of audiences is driving viewing numbers down as the broadcasters’ gatekeeper role in the living room is being bombarded by OTT and gaming culture.
+
+Traditional broadcast and cable TV are undergoing disruption. That’s clear - and the best way to tackle the effect is to innovate. Hackfests are essentially short term innovation events, where sponsors can set challenges to hackers and essentially outsource their innovation for a weekend and push outsiders to look at their brands in a new light.
+
+For companies trying to build a developer community, hackfests are a necessity.
+
+    "Here at IBC we are always looking to bring innovation to the show floor amongst our many Feature Areas.  We are particularly excited about the first ever Hackfest at IBC 2015 which will see the next generation of young industry experts pitch against each other in a bid to create something original and state of the art,” said Mike Crimp,  
+    CEO of IBC  
+
+Live Coding Music Concert 
+
+Besides all the hacking, we are extremely excited to host two nights of live coding mayhem in collaboration with Livecoding.tv and Toplap collective. Some of Toplap's best live coding artists, such as the inventor of the algorave Alex McLean, Alexandra Cárdenas, Rodrigo Ramírez, Shelly Knotts and Mike Hodnick will be showing off their skills through the Livecoding.tv platform - an educational livestreaming platform for watching engineers code products live. 
+
+For the ones not known with the practise of live coding, or 'on-the-fly programming', this is a new direction in electronic music and video, where live coders expose and rewire the internal workings of software while generating improvised music and/or visuals. Their live code is made visible by projecting the computer screen on a large projector screen. 
+
+Check out this documentary to learn more about the art of live coding and watch this experimental live coding stream below.
+
+    For most people, the only type of code involved in clubbing is a dress code. However, it turns out there's a whole musical subculture based around watching people who love computers create dance music with live computer coding. "Algorave" – or algorithmic rave – is a scene and club night that has defined its music as: "sounds wholly or partly characterised by the emission of a succession of repetitive conditionals" - Daniel Dylan Wray, VICE 
+
+In case you need more reasons to attend...
+
+    Free food, Free drinks, Free parties 
+    There's over 5,000 euro in cash prizes for Best Hack, Best Design and Best overall commercial concept. ++ Plus prizes from our partners who will also set challenges! ++
+    Twitter, Amazon Web Services and other partners will have mentors and APIs available at the event. Hang with top developer evangelists from major technology companies
+    You can stay overnight at venue if you bring your own bedroll, pillow and blanket. Save on hotels!
+    A jury of top broadcast industry executives will be judging your work
+    There will be over 55,000 broadcast industry executives attending www.ibc.org - so great exposure! 
+    Build cool stuff and meet new people. 
+Robots to the Rescue & the Hack for Healthy Ageing
+Jul 13, 2015
+
+    546 views
+    33 Likes
+    2 Comments
+
+    Share on LinkedInShare on FacebookShare on Twitter
+
+Robots to the Rescue is back! This time they are coming to The Playground to collaborate with hackers around the challenge of 'Healthy Ageing'.
+
+After an inspiring and insightful first part of Robots to the Rescue - The Ideathon -   where more than 30 thoughts and ideas around human-robot interaction were generated and three ideas were selected through crowd-voting, at this second part - The Playground - it is all about the process of design and development to turn these (and more) ideas into working prototypes, and receive the much-needed investment to turn them into practical applications to support the ageing society.
+
+THE CHALLENGE OF 'HEALTHY AGEING'  
+
+The European Commission has identified Active and Healthy Ageing as a major societal challenge common to all European countries, and an area which presents considerable potential for Europe to lead the world in providing innovative responses to this challenge.
+
+According to The 2015 Ageing Report, which is a joint report prepared by the European Commission and the Economic Policy Committee, by 2025 more than 20% of Europeans will be 65 or over, with a particularly rapid increase in numbers of over-80s, which leaves us faced with the challenge to deal with the care for an estimated 84 million people with age-related health problems. By 2050 there will only be two (instead of 4) Europeans of working age for each person over 65.
+
+Needless to say, caring for those seniors - physically, emotionally and mentally - will be an enormous undertaking, and experts say there will be a shortage of professionals trained and willing to take on the job.
+
+Provision of personal care is the traditional answer to such problems, but the increasing ageing of society is feared to lead to a too large societal pressure on professional care. The increasing demand for care services and growing strain on the supply of such services, points to a future imbalance between supply and demand, not in the least because of the increasing age of professional caregivers themselves.
+
+Against this background, a surge in developments in the field of robotics and Internet of Things (IoRT) related to Healthcare can be seen. This new emerging realm of healthcare is set to change the way health services are delivered.
+
+The customer-centric transformation is being fuelled by the need for innovation and disruption in healthcare. IoRT will continue to evolve fast, leading to impactful and positive changes for all stakeholders in the healthcare industry.
+
+IN EVERY CHALLENGE LIES OPPORTUNITY!
+
+Little is known about the opportunity that a European ageing society offers in economic terms. To fill up this gap, the European Commission has recently published a new web page - The Silver Economy - that aim to shed some light on this sector and provides some interesting information and figures.
+
+The Silver Economy covers new market opportunities arising from public and consumer expenditure related to the rights, needs and demands of the (growing) population over 50. Merrill Lynch estimates the global Silver Economy will grow from $7 trillion per year to $15 trillion by 2020 (see The Silver Dollar – Longevity Revolution Primer). Public spending on ageing in the EU accounts for 25% of GDP and 50% of general government expenditure and is projected to grow by 4% of GDP until 2060. 
+
+Collectively, Europe’s over-65’s have a disposable income of over EUR 3,000 billion and a substantial part of this will be ploughed back into the caring economy. According to Stephen Von Rump, CEO of Giraff Technologies AB, the EU market for robots and other devices that help taking care of our elderly will reach EUR 13 billion by 2016, and at least EUR 14.5 billion in the U.S.
+
+THE PLAYGROUND
+
+To tackle this challenge we are hosting a dedicated Playground, consisting of a Hacker Space and a scenario-based Testing Ground.
+
+The Hacker Space is where selected hackers (designers, developers, researchers, caretakers) will come together for 48-hours to hack, code, design, develop, play and pitch the most practical and scalable solutions. To create applications to alleviate the challenges that arise from the increasing ageing population. Think of solutions that would prevent isolation, prolong independent living, or generally increase the quality of home care. 
+
+The Playground will also include a scenario-based Testing Ground, simulating the living space of elderly homes. This entire area will be hyper-connected with various IoT sensors, development kits, social robots and enabled through advanced AI software services such as IBM Watson.
+
+IoRT + AI = AMBIENT INTELLIGENT ELDERLY HOMES 
+
+Now with the rise of robotics and artificial intelligence, the IoT sensors will no longer only be passive informants of external factors, but play an active role in optimising the systems and processes where they are present. Providing this active ‘sensorisation’ is the first step towards an Ambient Intelligence Care Homes. 
+
+    Ambient Intelligence is a recent paradigm emerging from Artificial Intelligence (AI), where computers are used as proactive tools assisting people with their day-to-day activities, making everyone’s life more comfortable 
+
+Combining robotics with the Internet of Things (IoRT) adds an enormous source of information for robots to decide and interact.
+
+Designing and developing human-centered solutions in scenario-based environments could provide us with the much-needed support that our society requires to deal with the increasing challenge of Healthy Ageing.
+
+Hope to see you around!

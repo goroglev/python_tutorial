@@ -1,0 +1,38 @@
+Non-stop hacking, live coding and dancing to an algorave is what's all about at the upcoming IBC Hackfest event, hosted in the heart of the world's largest international broadcasting conference at the RAI in Amsterdam, the world's greatest party city!  
+
+The IBC Hackfest, powered by Amazon Web Services, is a creative playground where hackers, coders, developers, designers, creatives, entrepreneurs, hardware hackers, UX/UI specialists and others will come together and brainstorm for 48 non-stop hours to build out their ideas on the future of broadcasting.  
+
+By tapping into API's and SDK's made available through our technology partners such as Twitter and Monterosa, as well as scores of publicly available APIs, developers can work together with other participants to cultivate new ways of tackling old problems.  
+
+    Media Convergence and the Future of  Audiovisual Content Creation, Distribution, and Monetisation  
+
+The world’s media is converging and the rules are being rewritten... from brands creating content like Red Bull to production companies going direct to viewers. Internet players are coming to TV and TV is moving to the web.
+
+There are now Youtube stars that have audience and viewing numbers that make broadcasters look insignificant. Distribution and rights are the new quagmire and IP and terrestrial are squaring off in a new standoff, battling for ad dollars. Fragmentation of audiences is driving viewing numbers down as the broadcasters’ gatekeeper role in the living room is being bombarded by OTT and gaming culture.
+
+Traditional broadcast and cable TV are undergoing disruption. That’s clear - and the best way to tackle the effect is to innovate. Hackfests are essentially short term innovation events, where sponsors can set challenges to hackers and essentially outsource their innovation for a weekend and push outsiders to look at their brands in a new light.
+
+For companies trying to build a developer community, hackfests are a necessity.
+
+    "Here at IBC we are always looking to bring innovation to the show floor amongst our many Feature Areas.  We are particularly excited about the first ever Hackfest at IBC 2015 which will see the next generation of young industry experts pitch against each other in a bid to create something original and state of the art,” said Mike Crimp,  
+    CEO of IBC  
+
+Live Coding Music Concert 
+
+Besides all the hacking, we are extremely excited to host two nights of live coding mayhem in collaboration with Livecoding.tv and Toplap collective. Some of Toplap's best live coding artists, such as the inventor of the algorave Alex McLean, Alexandra Cárdenas, Rodrigo Ramírez, Shelly Knotts and Mike Hodnick will be showing off their skills through the Livecoding.tv platform - an educational livestreaming platform for watching engineers code products live. 
+
+For the ones not known with the practise of live coding, or 'on-the-fly programming', this is a new direction in electronic music and video, where live coders expose and rewire the internal workings of software while generating improvised music and/or visuals. Their live code is made visible by projecting the computer screen on a large projector screen. 
+
+Check out this documentary to learn more about the art of live coding and watch this experimental live coding stream below.
+
+    For most people, the only type of code involved in clubbing is a dress code. However, it turns out there's a whole musical subculture based around watching people who love computers create dance music with live computer coding. "Algorave" – or algorithmic rave – is a scene and club night that has defined its music as: "sounds wholly or partly characterised by the emission of a succession of repetitive conditionals" - Daniel Dylan Wray, VICE 
+
+In case you need more reasons to attend...
+
+    Free food, Free drinks, Free parties 
+    There's over 5,000 euro in cash prizes for Best Hack, Best Design and Best overall commercial concept. ++ Plus prizes from our partners who will also set challenges! ++
+    Twitter, Amazon Web Services and other partners will have mentors and APIs available at the event. Hang with top developer evangelists from major technology companies
+    You can stay overnight at venue if you bring your own bedroll, pillow and blanket. Save on hotels!
+    A jury of top broadcast industry executives will be judging your work
+    There will be over 55,000 broadcast industry executives attending www.ibc.org - so great exposure! 
+    Build cool stuff and meet new people. 

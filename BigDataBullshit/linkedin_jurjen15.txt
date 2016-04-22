@@ -1,0 +1,54 @@
+
+This question has been playing on my mind for some time and became more prominent after my participation at the Hack the Brain hackathon.
+
+At this event I used an EEG biosensor, a Brain-Computer Interface from NeuroSky, specific brain activation frequencies and a heart rate monitor to subsequently alter a visual projection controlled through conscious brain activation and amplified by my heart beat.
+
+Did this (relatively basic and non-scientific) experiment managed to change my belief and behaviour? I believe it certainly did, because...
+
+    I became more consciously aware of my own senses and activity
+    I started (and maintained) a daily guided meditation program to increase my self awareness, boost my energy levels, reduce my stress levels and
+    I started using Focus@Will, a neuroscience based music service to help me focus when I am working, writing and reading or anything else that requires my attention.
+
+So the answer to this question is a "yes" for me; technologies such as software programs on my computer, mobile applications and sensors can support me in changing my behaviour, and for the better (i.e. boost energy, reduce stress, increase focus). Moreover, I am convinced that I am slowly altering my thought process and become more in control of my attention, intention and motivations due to an increased self awareness of my senses.
+
+    Can Technology Change People's Beliefs and Behaviours? 
+
+I am also very aware that this question could trigger an ethical and philosophical debate, due to its association to our thought process, belief system or perhaps even our own existence of being human!
+
+Without making this too complicated, as with most things in life it is all about the intention that people have; with bad intentions they could cause damage and with good intentions they could create a positive impact. This of course sounds very simplistic without any form of scientific reasoning, hence why I would like to take a closer look at the study of Persuasive Technology.
+
+    Persuasive technology is technology that is designed to change attitudes or behaviors of the users through persuasion and social influence, but not through coercion. 
+
+The study of persuasive technology began at the Stanford University in the 1990s. BJ Fogg, as a Stanford doctoral student from 1993-1997, used methods from experimental psychology to demonstrate that computers can change people’s thoughts and behaviors in predictable ways. His thesis was entitled “Charismatic Computers” and he went on to establish the Persuasive Tech Lab in 1998.
+
+This Lab performs research into computers as persuasive technologies and is part of the Human Sciences and Technologies Advanced Research Institute at Stanford University (H-STAR).
+
+As it seems, most self-identified persuasive technology research focuses on interactive, computational technologies, including desktop computers, Internet services, video games, and mobile devices, but this incorporates and builds on the results, theories, and methods of experimental psychology, rhetoric, and human-computer interaction.
+
+    The design of persuasive technologies can be seen as a particular case of design with intent. 
+
+In today’s world, people don’t need scientific data to believe computing technology influences people. From websites to mobile applications, the evidence is all around us now. Persuasive technology is part of our ordinary experience.
+
+Take for example the fuel meters that are installed in hybrid cars such as the Toyota Prius or Ford Fusion informing drivers about their fuel consumption efficiently. The system’s real-time feedback acts as personal driving coach on how to maximise fuel efficiency, so the driver learns overtime how to change the way they drive to improve their score.
+
+In the online world, we meet persuasion attempts at every click. Virtually every website has a persuasive purpose: the creators intend to affect user attitudes or behaviours in some way: like and share for your chance to win, recommend a friend and receive, enter your email address.
+What Causes Behaviour Change?
+
+The Fogg Behaviour Model (FBM) shows that three elements must converge at the same moment for a behaviour to occur: Motivation, Ability, and Trigger (MAT). When a behaviour does not occur, at least one of the three elements is missing.
+
+    Lack of Motivation
+    Lack of Ability
+    Lack of a well-timed Trigger to perform the behaviour.
+
+First of all, a person must have sufficient Motivation to perform the target behaviour. Dr BJ Fogg defines Motivation with three dimensions: sensation, anticipation, and belonging. By manipulating any one of these dimensions, designers can manipulate motivation.
+
+The second element of the behaviour model is Ability. This means that a person must be able to perform the target behaviour. In real-world practice, designers often overlook this element, assuming their audience is more capable than they really are. Two paths lead to increased ability:
+
+    You can train people to have more skills, which is the hard path: persuading people to learn new things.
+    The better path is to make the target behaviour simpler to do. Six factors have been identified that affect simplicity as: time, money, physical effort, brain cycles, social deviances and non-routine. In most situations behaviour change occurs only when the behaviour is easy to do.
+
+The third element of the model is Triggering the Behaviour. A Trigger can be a reminder, a deadline, among other things. In essence a Trigger tells someone to “do it now”. Technology interventions that require only a trigger are the easiest to create and the most likely to succeed.
+
+The common mistake is to focus solely on motivation. But the path to success often is about increasing ability and triggering the behaviour.
+
+I just received a message on Skype from my wife asking me to get some wine from the shop for tonight; I am easily triggered :-)

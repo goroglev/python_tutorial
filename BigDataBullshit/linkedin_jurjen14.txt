@@ -1,0 +1,41 @@
+In my earlier post "Envisioning the Future through Technologies" I highlighted the exponential growth of computers and likely projections for the next 25-30 years.
+In this post I shall focus my attention on computer vision and compare this to the visual system of humans and try to answer questions such as:
+
+    Will computers (and machines) be able to outperform humans in their ability to recognise images and objects in highly complex (convoluted) situations?
+    Can a computer replicate the functioning of a human brain?
+    What are some of the predictions around computer power in relation to brainpower for the next 30 years?
+
+Visual System of Humans
+
+Humans use their eyes and their brains to see and visually sense the world around them, or create a visual perception. This perception is created through our visual system (as illustrated on the right) which detects, processes and interprets information from visible light to build a representation of the surrounding environment.
+Computer Vision
+
+The field of computer vision aims to give a comparable, if not better, capability to a computer via automatic extraction, processing, and analysis of relevant information from a single image, sequence of images, or multi-dimensional data. It involves the development of a theoretical and algorithmic basis to achieve automatic visual understanding.
+
+To achieve such aim, we require a deeper insight and understanding into how our brain functions and replicate this through the adoption of artificial intelligence such as a convolutional neural network (CNN) or deep learning.
+
+CNN is a type of artificial neural network where the individual neurons are tiled in such a way that they respond to overlapping regions in the visual field.
+
+These convolutional networks were inspired by biological processes and consist of multiple layers of artificial neurons (MLPs) arranged in a way that reflects the way the human brain processes vision.
+
+    Machines are now almost as good as humans at object recognition... It's not going to be long before machines significantly outperform humans in image recognition tasks..."
+    - MIT Technology Review 
+
+The visual cortex in our brain, contains a lots of cells. These cells are responsible for detecting light in small, overlapping sub-regions of the visual field. These cells act as local filters over the input space. A convolution operator is created to perform the same function by all of these cells.
+
+The famous Network "LeNet" from Yann LeCun is already able to classify digits successfully, and applied to recognise checking numbers. However, as they discovered, without efficient computing resources and methods for more complex problems, its performance remains insufficient.
+
+Now with the rise of efficient GPU computing and the exponential performance of CPUs (according to Moore's Law), it has become possible to train these highly complex (convoluted) networks.
+
+
+Looking at the illustration above and going back to around 1980, when the first Personal Computers hit the market, it is astonishing to see the enormous growth in computing power that took place in the past 30 years.
+
+Looking at the predictions for next 30 years, the expected growth in computer power is simply mind-blowing; this year 2015 we supposedly outperform the brainpower of a mouse, in 2023 surpass the human brain and in the year 2045 we are expected to surpass brainpower equivalent to that of all humans brains combined.
+
+The below animation "How Long Until Computers Have the Same Power As the Human Brain?" from Chris Philpot and Brett Brownell published in Mother Jones provides an analogy of the volume in fluid of Lake Michigan compared with our brain's capacity (in calculations per second). According to Moore's Law, computing power doubles every 18 months. At that rate, you see very little progress for a long time, and suddenly you're finished.
+
+On a nearly daily basis I am witnessing new technological breakthroughs on the performance of our own AI-based technologies and are very much inline with these predictions. From the moment we started to incorporate deep learning algorithms into our computer vision system, the capability to automatically recognise images (or detect specific brands) improved significantly.
+
+Our current focus with the technology is to advance the broadcast and media industry and improve on the performance and efficiency of their business processes. Think for example of the automation of brand exposure analysis or the automatic detection of product placement within the scene of a particular TV program.
+
+One can only imagine the possibilities of computer vision, with the knowledge of the predicted growth and cross-disciplinary approaches in the field of Artificial Intelligence.

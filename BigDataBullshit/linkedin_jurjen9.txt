@@ -1,0 +1,54 @@
+Robots to the Rescue & the Hack for Healthy Ageing
+Jul 13, 2015
+
+    546 views
+    33 Likes
+    2 Comments
+
+    Share on LinkedInShare on FacebookShare on Twitter
+
+Robots to the Rescue is back! This time they are coming to The Playground to collaborate with hackers around the challenge of 'Healthy Ageing'.
+
+After an inspiring and insightful first part of Robots to the Rescue - The Ideathon -   where more than 30 thoughts and ideas around human-robot interaction were generated and three ideas were selected through crowd-voting, at this second part - The Playground - it is all about the process of design and development to turn these (and more) ideas into working prototypes, and receive the much-needed investment to turn them into practical applications to support the ageing society.
+
+THE CHALLENGE OF 'HEALTHY AGEING'  
+
+The European Commission has identified Active and Healthy Ageing as a major societal challenge common to all European countries, and an area which presents considerable potential for Europe to lead the world in providing innovative responses to this challenge.
+
+According to The 2015 Ageing Report, which is a joint report prepared by the European Commission and the Economic Policy Committee, by 2025 more than 20% of Europeans will be 65 or over, with a particularly rapid increase in numbers of over-80s, which leaves us faced with the challenge to deal with the care for an estimated 84 million people with age-related health problems. By 2050 there will only be two (instead of 4) Europeans of working age for each person over 65.
+
+Needless to say, caring for those seniors - physically, emotionally and mentally - will be an enormous undertaking, and experts say there will be a shortage of professionals trained and willing to take on the job.
+
+Provision of personal care is the traditional answer to such problems, but the increasing ageing of society is feared to lead to a too large societal pressure on professional care. The increasing demand for care services and growing strain on the supply of such services, points to a future imbalance between supply and demand, not in the least because of the increasing age of professional caregivers themselves.
+
+Against this background, a surge in developments in the field of robotics and Internet of Things (IoRT) related to Healthcare can be seen. This new emerging realm of healthcare is set to change the way health services are delivered.
+
+The customer-centric transformation is being fuelled by the need for innovation and disruption in healthcare. IoRT will continue to evolve fast, leading to impactful and positive changes for all stakeholders in the healthcare industry.
+
+IN EVERY CHALLENGE LIES OPPORTUNITY!
+
+Little is known about the opportunity that a European ageing society offers in economic terms. To fill up this gap, the European Commission has recently published a new web page - The Silver Economy - that aim to shed some light on this sector and provides some interesting information and figures.
+
+The Silver Economy covers new market opportunities arising from public and consumer expenditure related to the rights, needs and demands of the (growing) population over 50. Merrill Lynch estimates the global Silver Economy will grow from $7 trillion per year to $15 trillion by 2020 (see The Silver Dollar – Longevity Revolution Primer). Public spending on ageing in the EU accounts for 25% of GDP and 50% of general government expenditure and is projected to grow by 4% of GDP until 2060. 
+
+Collectively, Europe’s over-65’s have a disposable income of over EUR 3,000 billion and a substantial part of this will be ploughed back into the caring economy. According to Stephen Von Rump, CEO of Giraff Technologies AB, the EU market for robots and other devices that help taking care of our elderly will reach EUR 13 billion by 2016, and at least EUR 14.5 billion in the U.S.
+
+THE PLAYGROUND
+
+To tackle this challenge we are hosting a dedicated Playground, consisting of a Hacker Space and a scenario-based Testing Ground.
+
+The Hacker Space is where selected hackers (designers, developers, researchers, caretakers) will come together for 48-hours to hack, code, design, develop, play and pitch the most practical and scalable solutions. To create applications to alleviate the challenges that arise from the increasing ageing population. Think of solutions that would prevent isolation, prolong independent living, or generally increase the quality of home care. 
+
+The Playground will also include a scenario-based Testing Ground, simulating the living space of elderly homes. This entire area will be hyper-connected with various IoT sensors, development kits, social robots and enabled through advanced AI software services such as IBM Watson.
+
+IoRT + AI = AMBIENT INTELLIGENT ELDERLY HOMES 
+
+Now with the rise of robotics and artificial intelligence, the IoT sensors will no longer only be passive informants of external factors, but play an active role in optimising the systems and processes where they are present. Providing this active ‘sensorisation’ is the first step towards an Ambient Intelligence Care Homes. 
+
+    Ambient Intelligence is a recent paradigm emerging from Artificial Intelligence (AI), where computers are used as proactive tools assisting people with their day-to-day activities, making everyone’s life more comfortable 
+
+Combining robotics with the Internet of Things (IoRT) adds an enormous source of information for robots to decide and interact.
+
+Designing and developing human-centered solutions in scenario-based environments could provide us with the much-needed support that our society requires to deal with the increasing challenge of Healthy Ageing.
+
+Hope to see you around!
