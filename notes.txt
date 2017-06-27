@@ -20,6 +20,17 @@ sum(a for a in range(0, 101, 5))
 1050
 >>>
 
+Python version
+--------------
+`sys.version_info`
+$ python
+Python 3.4.2 (v3.4.2:ab2c023a9432, Oct  6 2014, 22:15:05) [MSC v.1600 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import sys
+>>> sys.version_info
+sys.version_info(major=3, minor=4, micro=2, releaselevel='final', serial=0)
+>>>
+
 Unpacking elements from iterables of arbitrary length (using *)
 ---------------------------------------------------------------
 >>> record = ('Dave', 'dave@gmail.com', '+201220012', '+201340011')
