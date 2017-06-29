@@ -346,6 +346,8 @@ Regular expressions (regex)
     |
 https://docs.python.org/3/library/re.html
 
+KODOS - python regex debugger GUI (windows, standalone)  
+
 '\' indicates special form or use of special chars in regex w/o their
 special meaning. This collides w/ the use of '\' in python string literals. 
 Use raw string notation for defining regex, r'str' where nothing in `str` is interpreted. 
